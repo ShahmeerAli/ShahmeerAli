@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on **Android Development**
 
 - 🌱 I’m currently learning **Flutter Development**
+- Interested in AI/MachineLearning/DeepLearning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
