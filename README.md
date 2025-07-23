@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahmeerali&label=Profile%20views&color=0e75b6&style=flat" alt="shahmeerali" /> </p>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **App Developement making scable apps in Both Android and Flutter**
 
-- 🌱 I’m currently learning **Flutter Development**
-- Interested in AI/MachineLearning/DeepLearning
+- 🌱 Interested in AI/MachineLearning/DeepLearning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
