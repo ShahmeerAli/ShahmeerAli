@@ -11,6 +11,7 @@
 - 🚀 Currently building **scalable mobile apps** in Android & Flutter  
 - 🤖 Interested in **AI / Machine Learning / Deep Learning**  
 - 💡 Always learning & exploring **modern development tools**
+  
 -  <img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 
 ---
