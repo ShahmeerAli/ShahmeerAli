@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahmeer Ali</h1>
-<h3 align="center">🚀 A Passionate App Developer | Flutter & Android Specialist</h3>
-
+<h3 align="center">🚀 A Passionate App Developer | Flutter & Android Specialist</h3> |  <img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahmeerali&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shahmeerali" />
 </p>
@@ -11,9 +10,6 @@
 - 🚀 Currently building **scalable mobile apps** in Android & Flutter  
 - 🤖 Interested in **AI / Machine Learning / Deep Learning**  
 - 💡 Always learning & exploring **modern development tools**
-  
--  <img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-
 ---
 
 ### 🌐 Connect with Me
