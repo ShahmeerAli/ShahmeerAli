@@ -47,11 +47,32 @@
 
 <br/>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahmeerali&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shahmeerali" />
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahmeerali&theme=radical&hide_border=true&background=0D1117" height="170" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&locale=en&theme=tokyonight" alt="shahmeerali" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" />
 </p>
+
+---
+
+## ⚡ Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&bg_color=0D1117&color=FF6EC7&line=00E676&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## ✨ Fun Animation  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=App+Developer+%7C+Flutter+%26+Android;AI+%7C+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing Animation" />
+</p>
+
