@@ -62,7 +62,6 @@
 
 ---
 
-## ⚡ Activity Graph  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&bg_color=0D1117&color=FF6EC7&line=00E676&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
@@ -70,7 +69,6 @@
 
 ---
 
-## ✨ Fun Animation  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=App+Developer+%7C+Flutter+%26+Android;AI+%7C+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing Animation" />
