@@ -63,9 +63,8 @@ My work spans across **AI**, **Machine Learning**, and **modern mobile developme
 
 </p>
 
-<img src="https://raw.githubusercontent.com/shahmeerali/shahmeerali/master/profile-summary-card-output/solarized/0-profile-details.svg" />
-<img src="https://raw.githubusercontent.com/shahmeerali/shahmeerali/master/profile-summary-card-output/solarized/1-repos-per-language.svg" />
-<img src="https://raw.githubusercontent.com/shahmeerali/shahmeerali/master/profile-summary-card-output/solarized/3-stats.svg" />
+
+<img src="https://img.shields.io/github/stars/shahmeerali?style=for-the-badge" />
 
 
 
