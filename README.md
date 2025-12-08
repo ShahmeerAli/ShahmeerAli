@@ -53,27 +53,6 @@ My work spans across **AI**, **Machine Learning**, and **modern mobile developme
 
 ---
 
-## 📂 Featured Projects  
-
-### **1. Stroke Rehabilitation & Assessment System**
-AI-powered medical assessment suite:
-- Aphasia detection using OpenAI models  
-- Dysarthria detection using deep learning waveform comparisons  
-- Motor tests via MediaPipe  
-- Cognitive tests (memory, focus, problem solving)  
-- Generates severity levels + personalized rehab exercises  
-
-### **2. Fitness AI Chatbot (RAG + Groq + FAISS)**
-- Provides fitness guidance via retrieval-augmented generation  
-- Uses FAISS for vector search over fitness datasets  
-- Integrated with Android frontend  
-- Built with LangChain + LangGraph reflexion agent  
-
-### **3. Flutter Expense Manager App**
-- Clean Architecture + Provider  
-- Local database sync  
-- Charts & analytics dashboard  
-
 ---
 
 ## 📊 GitHub Analytics  
@@ -82,9 +61,6 @@ AI-powered medical assessment suite:
   <img src="https://streak-stats.demolab.com/?user=shahmeerali&theme=radical&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
@@ -93,7 +69,7 @@ AI-powered medical assessment suite:
 
 ---
 
-## ✨ Typing Animation  
+## ✨
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=600&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+%26+Android+Developer;AI+%2F+Machine+Learning+Explorer;Building+Scalable+Mobile+Apps;Always+Learning+New+Technologies" />
 </p>
