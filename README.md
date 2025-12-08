@@ -64,10 +64,9 @@ My work spans across **AI**, **Machine Learning**, and **modern mobile developme
 </p>
 
 
-✨
+✨ Starred Repos
 <p align='center'>
   <img src="https://img.shields.io/github/stars/shahmeerali?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Public%20Repos-$(curl -s https://api.github.com/users/shahmeerali | jq '.public_repos')-blue" />
   </p>
 
 
