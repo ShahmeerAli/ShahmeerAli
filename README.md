@@ -66,6 +66,8 @@ My work spans across **AI**, **Machine Learning**, and **modern mobile developme
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&theme=react-dark&hide_border=true"/>
 </p>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shahmeerali&repo=stroke-rehab-system&theme=radical&hide_border=true" />
+
 
 ---
 
