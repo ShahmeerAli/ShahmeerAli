@@ -62,8 +62,9 @@ My work spans across **AI**, **Machine Learning**, and **modern mobile developme
 </p>
 
 </p>
-<!-- Contribution heatmap -->
-<img src="https://ghchart.rshah.org/shahmeerali" alt="GitHub contribution chart" width="800" />
+<!-- GitHub profile stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub stats" />
+
 
 
 <p align="center">
