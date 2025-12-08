@@ -3,7 +3,7 @@
 <h3 align="center">App Developer • Flutter Specialist • Android Engineer</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/bE9XQvR.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 ---
@@ -50,6 +50,29 @@ My work spans across **AI**, **Machine Learning**, and **modern mobile developme
   <img src="https://img.shields.io/badge/LangGraph-6E3DD9?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MCP-0088CC?style=for-the-badge&logo=azurepipelines&logoColor=white"/>
 </p>
+
+---
+
+## 📂 Featured Projects  
+
+### **1. Stroke Rehabilitation & Assessment System**
+AI-powered medical assessment suite:
+- Aphasia detection using OpenAI models  
+- Dysarthria detection using deep learning waveform comparisons  
+- Motor tests via MediaPipe  
+- Cognitive tests (memory, focus, problem solving)  
+- Generates severity levels + personalized rehab exercises  
+
+### **2. Fitness AI Chatbot (RAG + Groq + FAISS)**
+- Provides fitness guidance via retrieval-augmented generation  
+- Uses FAISS for vector search over fitness datasets  
+- Integrated with Android frontend  
+- Built with LangChain + LangGraph reflexion agent  
+
+### **3. Flutter Expense Manager App**
+- Clean Architecture + Provider  
+- Local database sync  
+- Charts & analytics dashboard  
 
 ---
 
