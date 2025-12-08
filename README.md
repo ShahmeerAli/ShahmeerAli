@@ -63,13 +63,9 @@ My work spans across **AI**, **Machine Learning**, and **modern mobile developme
 
 </p>
 
-
-<!-- Streak stats -->
-<img src="https://streak-stats.demolab.com?user=shahmeerali&theme=radical&hide_border=true" alt="GitHub streak stats" />
-<!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-<!-- Pinned repo cards -->
-
+<img src="https://raw.githubusercontent.com/shahmeerali/shahmeerali/master/profile-summary-card-output/solarized/0-profile-details.svg" />
+<img src="https://raw.githubusercontent.com/shahmeerali/shahmeerali/master/profile-summary-card-output/solarized/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/shahmeerali/shahmeerali/master/profile-summary-card-output/solarized/3-stats.svg" />
 
 
 
