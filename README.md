@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Shahmeer Ali</h1>
-<h3 align="center">App Developer • Flutter Specialist </h3>
+<h3 align="center">App Developer • Flutter x Android</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
