@@ -33,18 +33,15 @@ My work spans across **AI**, **Machine Learning**, and **modern mobile developme
 
 ## 🛠️ Tech Stack  
 
-### **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,java,python,cpp,html,css" />
+ 
 </p>
-
-### **Databases & Cloud**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb" />
+ 
 </p>
-
-### **AI / Tools / DevOps**
 <p align="left">
+   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,java,python,cpp,html,css" />
+   <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb" />
   <img src="https://skillicons.dev/icons?i=git,tensorflow" />
   <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-6E3DD9?style=for-the-badge&logo=graphql&logoColor=white"/>
