@@ -1,25 +1,45 @@
 <!-- HEADER -->
 <h1 align="center">Shahmeer Ali</h1>
-<h3 align="center">App Developer • Flutter x Android</h3>
+<h3 align="center">Mobile Systems Engineer • Flutter x Android • AI Integration</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://komarev.com/ghpvc/?username=shahmeerali&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering+Scalable+Mobile+Systems;AI-Powered+Application+Development;Clean+Architecture+Advocate;Performance+Driven+Engineering" />
 </p>
 
 ---
 
 ## 🚀 About Me  
-I build high-performance, scalable mobile applications using **Flutter** and **Native Android**.  
-My work spans across **AI**, **Machine Learning**, and **modern mobile development architectures**.
 
-- 🔥 Passionate about cross-platform engineering  
-- 🤖 Exploring ML, DL & AI-powered app integrations  
-- 📱 Focused on clean architecture & scalable development  
-- 🎯 Always learning new dev tools and frameworks  
+I build **production-grade mobile systems** engineered for scalability, performance, and intelligent automation.
+
+My expertise sits at the intersection of:
+
+- 📱 High-performance Flutter & Native Android development  
+- 🧠 AI/ML-powered application integration  
+- 🏗️ Clean Architecture (MVVM, modular systems, SOLID principles)  
+- 🔄 CI/CD & containerized development workflows  
+- ⚡ Performance optimization & maintainable codebases  
+
+I don’t just ship apps — I design systems that scale.
 
 ---
 
-## 🌐 Connect with Me  
+## 🧠 Engineering Philosophy  
+
+- Architecture first. Implementation second.  
+- Performance is a feature.  
+- Simplicity scales.  
+- Automation > repetition.  
+- Code should outlive its author.  
+
+---
+
+## 🌐 Connect  
+
 <p align="left">
   <a href="https://linkedin.com/in/shahmeer-ali-9a09b3327" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
@@ -31,56 +51,53 @@ My work spans across **AI**, **Machine Learning**, and **modern mobile developme
 
 ---
 
-## 🛠️ Tech Stack  
+# 🛠️ Tech Stack  
 
-<p align="left">
- 
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,java,python,cpp,html,css,docker,vscode" />
+   <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,git,tensorflow,github,postman,fastapi,nodejs,nextjs" />
 </p>
-<p align="left">
- 
-</p>
-## 🛠️ Tech Stack  
 
-<p align="left">
-   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,java,python,cpp,html,css" />
-   <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,docker,vscode" />
-   <img src="https://skillicons.dev/icons?i=git,tensorflow" />
+<p align="center">
    <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=chainlink&logoColor=white"/>
    <img src="https://img.shields.io/badge/LangGraph-6E3DD9?style=for-the-badge&logo=graphql&logoColor=white"/>
    <img src="https://img.shields.io/badge/MCP-0088CC?style=for-the-badge&logo=azurepipelines&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
 ---
 
+## 🔬 Current Focus  
+
+- AI-assisted mobile systems  
+- LLM orchestration & workflow agents   
+- Scalable cross-platform architecture  
+
 ---
 
-## 📊 GitHub Analytics  
+# 📊 Engineering Metrics  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shahmeerali&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&theme=radical&hide_border=true" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
+---
 
-✨ Starred Repos
-<p align='center'>
-  <img src="https://img.shields.io/github/stars/shahmeerali?style=for-the-badge" />
-  </p>
-
-
-
-
+## 🐍 Contribution Activity  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&theme=react-dark&hide_border=true"/>
 </p>
 
-
-
 ---
 
-## ✨
+## ✨ System Builder • Not Just App Developer  
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=600&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+%26+Android+Developer;AI+%2F+Machine+Learning+Explorer;Building+Scalable+Mobile+Apps;Always+Learning+New+Technologies" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
