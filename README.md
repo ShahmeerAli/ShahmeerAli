@@ -1,6 +1,9 @@
 <!-- HEADER -->
 <h1 align="center">Shahmeer Ali</h1>
 <h3 align="center">Mobile Systems Engineer • Flutter x Android • AI Integration</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3N0b2J4Y2RkY3l6NnE0YjJ3eGk1eW5zZ2k0d3FqdzN1aW1zY3Z5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahmeerali&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
