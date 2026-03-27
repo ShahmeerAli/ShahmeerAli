@@ -65,7 +65,7 @@ I don’t just ship apps — I design systems that scale.
    <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=chainlink&logoColor=white"/>
    <img src="https://img.shields.io/badge/LangGraph-6E3DD9?style=for-the-badge&logo=graphql&logoColor=white"/>
    <img src="https://img.shields.io/badge/MCP-0088CC?style=for-the-badge&logo=azurepipelines&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
 </p>
 
 ---
