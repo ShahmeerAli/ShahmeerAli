@@ -59,6 +59,7 @@ I don’t just ship apps — I design systems that scale.
 <p align="center">
    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,java,python,cpp,html,css,docker,vscode" />
    <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,git,tensorflow,github,postman,fastapi,nodejs,nextjs" />
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="60" />
 </p>
 
 <p align="center">
