@@ -78,44 +78,12 @@ I don't just ship apps — I design systems that scale.
 
 ---
 
-## 📊 Engineering Metrics
+#📊 Engineering Metrics // CYBERPUNK TERMINAL
+<div align="center"> <div style="background-color:#0D1117; padding:20px; border-radius:12px; border:1px solid #00F7FF; box-shadow:0 0 20px #FF6B9D33;"> <img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=00F7FF&text_color=ffffff&count_private=true" height="170"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=shahmeerali&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=00F7FF&dates=ffffff" height="170"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff&langs_count=6" height="160"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=00F7FF&text_color=ffffff&ring_color=FF6B9D&include_all_commits=true&count_private=true" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahmeerali&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=00F7FF&sideLabels=ffffff&dates=ffffff" height="180"/>
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff&langs_count=8" height="170"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahmeerali&theme=radical" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahmeerali&theme=radical" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahmeerali&theme=radical&utcOffset=5" height="170"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahmeerali&theme=radical" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahmeerali&theme=radical" height="170"/>
-</div>
-
----
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahmeerali&theme=radical" width="100%"/> <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap; margin-top:15px;"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahmeerali&theme=radical" height="160"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahmeerali&theme=radical&utcOffset=5" height="160"/> </div> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahmeerali&theme=radical" height="160"/> </div> </div>
 
 ## 🌿 Contribution Graph
 
