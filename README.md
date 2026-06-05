@@ -121,10 +121,10 @@
 </p>
 
 ---
-## 📡 NEURAL ACTIVITY GRID // COMMIT HISTORY
+## 🟩 CONTRIBUTION HEATMAP // RAW COMMIT MATRIX
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF6B9D&point=00F7FF&area=true&area_color=FF6B9D" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <br/>
