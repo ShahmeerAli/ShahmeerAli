@@ -1,47 +1,53 @@
 <!-- HEADER -->
-<h1 align="center">Shahmeer Ali</h1>
-<h3 align="center">Mobile App Developer • Flutter x Android • AI Integration</h3>
+<h1 align="center">⚡ SHAHMEER.ALI // SYSTEM ONLINE</h1>
+
+<h3 align="center">
+  Mobile App Developer • Flutter x Android • AI Integration
+</h3>
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3N0b2J4Y2RkY3l6NnE0YjJ3eGk1eW5zZ2k0d3FqdzN1aW1zY3Z5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahmeerali&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=shahmeerali&label=NEURAL%20SCAN&color=00f7ff&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering+Scalable+Mobile+Systems;AI-Powered+Application+Development;Clean+Architecture+Advocate;Performance+Driven+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=BOOTING+DEVELOPER+PROFILE...;SCALABLE+SYSTEMS+ENGINEERED;AI+INTEGRATION+ACTIVE;CLEAN+ARCHITECTURE+MODE+ON" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧬 SYSTEM PROFILE
 
-I build **production-grade mobile systems** engineered for scalability, performance, and intelligent automation.
+> “Engineering scalable mobile systems with precision-grade architecture.”
 
-My expertise sits at the intersection of:
-
-- 📱 High-performance Flutter & Native Android development
-- 🧠 AI/ML-powered application integration
-- 🏗️ Clean Architecture (MVVM, modular systems, SOLID principles)
-- 🔄 CI/CD & containerized development workflows
-- ⚡ Performance optimization & maintainable codebases
-
-I don't just ship apps — I design systems that scale.
+I operate as a **system architect disguised as a mobile developer**.
 
 ---
 
-## 🧠 Engineering Philosophy
+## 🧠 CORE MODULES
 
-- Architecture first. Implementation second.
-- Performance is a feature.
-- Simplicity scales.
-- Automation > repetition.
-- Code should outlive its author.
+- 📱 Flutter + Native Android Engineering
+- 🧠 AI / ML Application Integration
+- 🏗️ Modular Architecture (MVVM / Clean Architecture)
+- ⚙️ CI/CD Automation Pipelines
+- 🚀 Performance-First Development Systems
 
 ---
 
-## 🌐 Connect
+## 🧾 ENGINEERING LOGIC
+
+- Architecture before implementation
+- Performance is non-negotiable
+- Minimalism scales better than complexity
+- Automation eliminates human error
+- Code should behave like infrastructure, not script
+
+---
+
+## 🌐 NETWORK LINKS
 
 <p align="left">
   <a href="https://linkedin.com/in/shahmeer-ali-9a09b3327" target="_blank">
@@ -54,7 +60,8 @@ I don't just ship apps — I design systems that scale.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK // CORE SYSTEMS
+<!-- (UNCHANGED AS REQUESTED) -->
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,java,python,cpp,html,css,docker,vscode" />
@@ -70,30 +77,41 @@ I don't just ship apps — I design systems that scale.
 
 ---
 
-## 🔬 Current Focus
+## 🔬 ACTIVE RESEARCH ZONE
 
 - AI-assisted mobile systems
-- LLM orchestration & workflow agents
-- Scalable cross-platform architecture
+- LLM orchestration pipelines
+- Scalable cross-platform architectures
 
 ---
 
-#📊 Engineering Metrics // CYBERPUNK TERMINAL
-<div align="center"> <div style="background-color:#0D1117; padding:20px; border-radius:12px; border:1px solid #00F7FF; box-shadow:0 0 20px #FF6B9D33;"> <img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=00F7FF&text_color=ffffff&count_private=true" height="170"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=shahmeerali&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=00F7FF&dates=ffffff" height="170"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff&langs_count=6" height="160"/>
+## 📊 ENGINEERING METRICS // NEURAL DASHBOARD
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=00F7FF&text_color=ffffff&count_private=true" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahmeerali&theme=radical" width="100%"/> <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap; margin-top:15px;"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahmeerali&theme=radical" height="160"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahmeerali&theme=radical&utcOffset=5" height="160"/> </div> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahmeerali&theme=radical" height="160"/> </div> </div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shahmeerali&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=00F7FF&dates=ffffff" height="170"/>
 
-## 🌿 Contribution Graph
+<br/><br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&theme=radical&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF6B9D&point=FFFFFF&area=true&area_color=FF6B9D&v=4" width="100%"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff&langs_count=6" height="160"/>
+
+</p>
 
 ---
 
-## ✨ System Builder • Not Just App Developer
+## 📡 CONTRIBUTION SIGNAL GRID
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&theme=radical&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF6B9D&point=FFFFFF&area=true" width="100%"/>
+</p>
+
+---
+
+## 🧿 FINAL STATUS
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
