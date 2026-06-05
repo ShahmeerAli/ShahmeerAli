@@ -82,14 +82,21 @@ I don’t just ship apps — I design systems that scale.
 # 📊 Engineering Metrics  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shahmeerali&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=shahmeerali&amp;theme=radical&amp;hide_border=true&amp;v=1" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;v=1" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;v=1" height="170"/>
 </p>
 
+---
+
+## 🐍 Contribution Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&amp;theme=react-dark&amp;hide_border=true&amp;v=1"/>
+</p>
 ---
 
 ## 🐍 Contribution Activity  
