@@ -82,8 +82,6 @@ I don’t just ship apps — I design systems that scale.
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shahmeerali&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" /> </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/shahmeerali/shahmeerali/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
-
 <!-- Activity Line Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&amp;theme=radical&amp;hide_border=true&amp;v=4"/>
