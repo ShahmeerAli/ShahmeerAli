@@ -121,7 +121,14 @@
 </p>
 
 ---
-#System Builder
+## 📡 NEURAL ACTIVITY GRID // COMMIT HISTORY
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF6B9D&point=00F7FF&area=true&area_color=FF6B9D" width="100%"/>
+</p>
+
+<br/>
+System Builder
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
