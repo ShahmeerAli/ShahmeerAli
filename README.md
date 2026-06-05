@@ -78,35 +78,11 @@ I don’t just ship apps — I design systems that scale.
 - Scalable cross-platform architecture  
 
 ---
-# 📊 Engineering Metrics  
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahmeerali&theme=radical" width="100%" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahmeerali&theme=radical" height="170"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahmeerali&theme=radical&utcOffset=5" height="170"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahmeerali&theme=radical" height="170"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahmeerali&theme=radical" height="170"/> </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shahmeerali&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" />
-  </a>
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shahmeerali&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" /> </p>
 
-<!-- Open Source Collaboration & Productivity (New) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahmeerali&amp;theme=radical" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahmeerali&amp;theme=radical&amp;utcOffset=5" height="170"/>
-</p>
-
-<!-- Streak & Top Languages -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shahmeerali&amp;theme=radical&amp;hide_border=true&amp;v=4" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahmeerali&amp;theme=radical" height="170"/>
-</p>
-
----
-
-## 🐍 Contribution Activity  
-
-<!-- 3D Isometric Commit Calendar -->
-<p align="center">
-  <img src="https://metrics.lecoq.io/shahmeerali?plugin_isocalendar=yes&amp;plugin_isocalendar_duration=half-year&amp;config.timezone=Asia%2FKarachi" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/shahmeerali/shahmeerali/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
 
 <!-- Activity Line Graph -->
 <p align="center">
