@@ -87,10 +87,6 @@ I don’t just ship apps — I design systems that scale.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&amp;theme=radical&amp;hide_border=true&amp;v=4"/>
 </p>
 
-<!-- Activity Line Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&amp;theme=radical&amp;hide_border=true&amp;v=3"/>
-</p>
 
 ## ✨ System Builder • Not Just App Developer  
 
