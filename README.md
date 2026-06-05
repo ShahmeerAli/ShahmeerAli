@@ -104,17 +104,13 @@
 
 ## 📊 HUD METRICS ARRAY
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=00F7FF&text_color=ffffff&count_private=true" height="160"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shahmeerali&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=00F7FF&dates=ffffff" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff&langs_count=6" height="150"/>
-</p>
+
 
 ---
 
