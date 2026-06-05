@@ -81,31 +81,38 @@ I don’t just ship apps — I design systems that scale.
 
 # 📊 Engineering Metrics  
 
+<!-- GitHub Trophies (New) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shahmeerali&amp;theme=radical&amp;hide_border=true&amp;v=1" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;v=1" height="170"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shahmeerali&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" />
+  </a>
 </p>
 
+<!-- Profile Summary & Commits by Time of Day (New Alternatives) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;v=1" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahmeerali&amp;theme=radical" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahmeerali&amp;theme=radical&amp;utcOffset=5" height="170"/>
+</p>
+
+<!-- Streak & Top Languages (Refreshed) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shahmeerali&amp;theme=radical&amp;hide_border=true&amp;v=3" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahmeerali&amp;theme=radical" height="170"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Activity  
 
+<!-- 3D Isometric Commit Calendar (New) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&amp;theme=react-dark&amp;hide_border=true&amp;v=1"/>
-</p>
----
-
-## 🐍 Contribution Activity  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&theme=react-dark&hide_border=true"/>
+  <img src="https://metrics.lecoq.io/shahmeerali?plugin_isocalendar=yes&amp;plugin_isocalendar_duration=half-year&amp;config.timezone=Asia%2FKarachi" />
 </p>
 
----
+<!-- Activity Line Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&amp;theme=radical&amp;hide_border=true&amp;v=3"/>
+</p>
 
 ## ✨ System Builder • Not Just App Developer  
 
