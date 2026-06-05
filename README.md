@@ -31,8 +31,7 @@
 🧠 AI MODULE: ACTIVE  
 📡 SIGNAL: STABLE  
 
-    </td>
-    <td align="center" width="33%">
+  
 
 ### 🧠 CORE MODULES
 📱 Flutter Systems  
@@ -41,14 +40,13 @@
 ⚙️ CI/CD Pipelines  
 🚀 Performance Engineering  
 
-    </td>
-    <td align="center" width="33%">
+  
 
 ### 🌐 NETWORK LINKS
 <a href="https://linkedin.com/in/shahmeer-ali-9a09b3327">LinkedIn</a><br/>
 <a href="https://instagram.com/shahmeer.gradle">Instagram</a>
 
-    </td>
+
   </tr>
 </table>
 
