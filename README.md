@@ -121,11 +121,6 @@
 </p>
 
 ---
-## 🟩 CONTRIBUTION HEATMAP // RAW COMMIT MATRIX
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
 
 <br/>
 System Builder
