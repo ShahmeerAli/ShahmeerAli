@@ -15,33 +15,33 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
 I build **production-grade mobile systems** engineered for scalability, performance, and intelligent automation.
 
 My expertise sits at the intersection of:
 
-- 📱 High-performance Flutter & Native Android development  
-- 🧠 AI/ML-powered application integration  
-- 🏗️ Clean Architecture (MVVM, modular systems, SOLID principles)  
-- 🔄 CI/CD & containerized development workflows  
-- ⚡ Performance optimization & maintainable codebases  
+- 📱 High-performance Flutter & Native Android development
+- 🧠 AI/ML-powered application integration
+- 🏗️ Clean Architecture (MVVM, modular systems, SOLID principles)
+- 🔄 CI/CD & containerized development workflows
+- ⚡ Performance optimization & maintainable codebases
 
-I don’t just ship apps — I design systems that scale.
-
----
-
-## 🧠 Engineering Philosophy  
-
-- Architecture first. Implementation second.  
-- Performance is a feature.  
-- Simplicity scales.  
-- Automation > repetition.  
-- Code should outlive its author.  
+I don't just ship apps — I design systems that scale.
 
 ---
 
-## 🌐 Connect  
+## 🧠 Engineering Philosophy
+
+- Architecture first. Implementation second.
+- Performance is a feature.
+- Simplicity scales.
+- Automation > repetition.
+- Code should outlive its author.
+
+---
+
+## 🌐 Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/shahmeer-ali-9a09b3327" target="_blank">
@@ -54,30 +54,28 @@ I don’t just ship apps — I design systems that scale.
 
 ---
 
-# 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,java,python,cpp,html,css,docker,vscode" />
-   <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,git,tensorflow,github,postman,fastapi,nodejs,nextjs" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,java,python,cpp,html,css,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,git,tensorflow,github,postman,fastapi,nodejs,nextjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" />
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=chainlink&logoColor=white"/>
-   <img src="https://img.shields.io/badge/LangGraph-6E3DD9?style=for-the-badge&logo=graphql&logoColor=white"/>
-   <img src="https://img.shields.io/badge/MCP-0088CC?style=for-the-badge&logo=azurepipelines&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-6E3DD9?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-0088CC?style=for-the-badge&logo=azurepipelines&logoColor=white"/>
 </p>
 
 ---
 
-## 🔬 Current Focus  
+## 🔬 Current Focus
 
-- AI-assisted mobile systems  
-- LLM orchestration & workflow agents   
-- Scalable cross-platform architecture  
+- AI-assisted mobile systems
+- LLM orchestration & workflow agents
+- Scalable cross-platform architecture
 
----
 ---
 
 ## 📊 Engineering Metrics
@@ -132,14 +130,9 @@ I don’t just ship apps — I design systems that scale.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&theme=radical&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF6B9D&point=FFFFFF&area=true&area_color=FF6B9D&v=4" width="100%"/>
 </div>
 
+---
 
-<!-- Activity Line Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&amp;theme=radical&amp;hide_border=true&amp;v=4"/>
-</p>
-
-
-## ✨ System Builder • Not Just App Developer  
+## ✨ System Builder • Not Just App Developer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
