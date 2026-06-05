@@ -1,69 +1,88 @@
 <!-- HEADER -->
-<h1 align="center">⚡ SHAHMEER.ALI // SYSTEM ONLINE</h1>
+<h1 align="center">⚡ SHAHMEER.ALI // NEURAL CONTROL HUD</h1>
 
-<h3 align="center">
+<p align="center">
   Mobile App Developer • Flutter x Android • AI Integration
-</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3N0b2J4Y2RkY3l6NnE0YjJ3eGk1eW5zZ2k0d3FqdzN1aW1zY3Z5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="550"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahmeerali&label=NEURAL%20SCAN&color=00f7ff&style=for-the-badge" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3N0b2J4Y2RkY3l6NnE0YjJ3eGk1eW5zZ2k0d3FqdzN1aW1zY3Z5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="520"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=BOOTING+PROFILE...;SYSTEM+STABILITY+OK;AI+MODULES+ACTIVE;ARCHITECTURE+LOCKED" />
+  <img src="https://komarev.com/ghpvc/?username=shahmeerali&label=SYSTEM%20SCAN&color=00f7ff&style=for-the-badge" />
 </p>
 
----
-
-## 🧬 SYSTEM PROFILE
-
-> ENGINE STATUS: ONLINE  
-> ROLE: MOBILE SYSTEM ENGINEER  
-> MODE: CYBERPUNK DEV ENVIRONMENT
-
----
-
-## 🧠 CORE MODULES
-
-- 📱 Flutter + Native Android Systems
-- 🧠 AI / ML Integration Pipelines
-- 🏗️ Clean Architecture (MVVM / Modular Design)
-- ⚙️ CI/CD Automation Systems
-- 🚀 Performance Optimization Layer
-
----
-
-## 🧾 ENGINEERING LOGIC
-
-- Architecture > Implementation
-- Performance is mandatory, not optional
-- Complexity is failure
-- Automation replaces repetition
-- Systems > Applications
-
----
-
-## 🌐 NETWORK LINKS
-
 <p align="center">
-  <a href="https://linkedin.com/in/shahmeer-ali-9a09b3327">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="https://instagram.com/shahmeer.gradle">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=INITIALIZING+HUD+INTERFACE...;NEURAL+LINK+ACTIVE;ARCHITECTURE+STABLE;SYSTEMS+ONLINE" />
 </p>
 
 ---
 
-## 🛠️ TECH STACK // CORE SYSTEMS
+## 🧿 NEURAL HUD GRID
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+
+### 🧬 SYSTEM STATUS
+🟢 ONLINE  
+⚡ PERFORMANCE: OPTIMAL  
+🧠 AI MODULE: ACTIVE  
+📡 SIGNAL: STABLE  
+
+    </td>
+    <td align="center" width="33%">
+
+### 🧠 CORE MODULES
+📱 Flutter Systems  
+🤖 AI Integration  
+🏗️ Clean Architecture  
+⚙️ CI/CD Pipelines  
+🚀 Performance Engineering  
+
+    </td>
+    <td align="center" width="33%">
+
+### 🌐 NETWORK LINKS
+<a href="https://linkedin.com/in/shahmeer-ali-9a09b3327">LinkedIn</a><br/>
+<a href="https://instagram.com/shahmeer.gradle">Instagram</a>
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧾 ENGINEERING PROTOCOL
+
+<table width="100%">
+  <tr>
+    <td>
+
+### RULESET
+- Architecture > Code  
+- Simplicity scales  
+- Automation reduces entropy  
+- Performance is mandatory  
+- Systems > Features  
+
+    </td>
+    <td>
+
+### ACTIVE RESEARCH
+- AI Mobile Systems  
+- LLM Orchestration  
+- Cross-platform scaling  
+- Agent-based workflows  
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ TECH STACK // SYSTEM CORE
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,java,python,cpp,html,css,docker,vscode" />
@@ -85,39 +104,30 @@
 
 ---
 
-## 🔬 ACTIVE RESEARCH ZONE
-
-- AI-assisted mobile systems  
-- LLM orchestration pipelines  
-- Scalable cross-platform architecture  
-
----
-
-## 📊 ENGINEERING METRICS // NEURAL DASHBOARD
+## 📊 HUD METRICS ARRAY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=00F7FF&text_color=ffffff&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=00F7FF&text_color=ffffff&count_private=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahmeerali&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=00F7FF&dates=ffffff" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahmeerali&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=00F7FF&dates=ffffff" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff&langs_count=6" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff&langs_count=6" height="150"/>
 </p>
 
 ---
 
-## 📡 CONTRIBUTION SIGNAL GRID
+## 📡 CONTRIBUTION GRID SCAN
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&theme=radical&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF6B9D&point=FFFFFF&area=true" width="100%"/>
 </p>
 
 ---
-
-## 🧿 FINAL STATUS
+#System Builder
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
