@@ -116,9 +116,7 @@
 
 ## 📡 CONTRIBUTION GRID SCAN
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&theme=radical&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF6B9D&point=FFFFFF&area=true" width="100%"/>
-</p>
+
 
 ---
 
