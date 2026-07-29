@@ -46,51 +46,7 @@ I enjoy designing scalable architectures, writing clean code, and creating produ
 
 ---
 
-# 🚀 Featured Projects
 
-## 📱 QuizKai
-
-Anime multiplayer quiz platform built with Flutter.
-
-### Highlights
-
-* Real-time multiplayer
-* Matchmaking
-* Leaderboards
-* Google Authentication
-* AI-powered quiz generation
-* Supabase backend
-
----
-
-## 🥗 Calorica
-
-AI-assisted calorie and wellness tracker.
-
-### Features
-
-* Calorie tracking
-* Water intake tracking
-* Mood tracking
-* AI nutrition insights
-* Daily analytics
-* Firebase integration
-
----
-
-## 🌸 Leaf & Petals
-
-A production-ready flower marketplace.
-
-### Tech
-
-* Next.js
-* MongoDB
-* Docker
-* Jenkins CI/CD
-* AWS EC2
-
----
 
 # 🛠 Tech Stack
 
@@ -177,17 +133,6 @@ A production-ready flower marketplace.
 <img src="https://github-profile-trophy.vercel.app/?username=shahmeerali&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
 
 </p>
-
----
-
-# 🌱 Currently Learning
-
-* AI Agents
-* Retrieval-Augmented Generation (RAG)
-* LangGraph
-* MCP
-* Advanced Flutter Architecture
-* Distributed Backend Systems
 
 ---
 
