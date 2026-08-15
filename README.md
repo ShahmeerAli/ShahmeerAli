@@ -1,257 +1,288 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<!-- HERO -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=SHAHMEER%20ALI&fontAlign=50&fontAlignY=38&fontSize=54&fontColor=FFFFFF&color=0:0F172A,50:312E81,100:0F172A&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:05070A,50:111827,100:05070A&text=SHAHMEER%20ALI&fontColor=FFFFFF&fontSize=46&fontAlignY=42&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=850&lines=Flutter+Developer+%E2%9A%A1;AI+%26+LLM+Enthusiast+%F0%9F%A4%96;Backend+Engineer+%E2%9A%99%EF%B8%8F;Building+Intelligent+Mobile+Experiences;Turning+Ideas+Into+Production+Software" />
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/shahmeer-ali-9a09b3327">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
-</a>
-
-<a href="mailto:shahmeer.devel@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=F87171"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=shahmeerali&style=for-the-badge&color=312E81"/>
-
-<br><br>
-
-<!-- animated contribution snake -->
-
-<img src="https://raw.githubusercontent.com/shahmeerali/shahmeerali/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=Flutter+Developer+%2F%2F+AI+Enthusiast+%2F%2F+Backend+Engineer;Building+software+with+purpose.;Mobile+%2B+AI+%2B+Backend."/>
 
 </div>
 
----
+<br>
 
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
 
-<!-- PROFILE -->
+<!-- INTRO DASHBOARD -->
 
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
 
-<td width="62%" valign="top">
+<td width="67%" valign="top">
 
-## 👋 Hey, I'm Shahmeer
+<h3>01 / PROFILE</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=A78BFA&width=600&lines=I+build+things+that+solve+real+problems.;Mobile+%2B+AI+%2B+Backend.;Clean+code.+Good+UX.+Scalable+systems."/>
+# 👋 Hi, I'm Shahmeer.
 
-<br>
+I'm a Computer Science student who enjoys turning ideas into **real software products**.
 
-I'm a Computer Science student focused on building **real-world software products**.
-
-My main stack revolves around **Flutter**, while I'm expanding deeper into **AI engineering, backend development and system design**.
+My primary focus is **Flutter development**, while I'm moving deeper into **AI engineering, backend systems and system design**.
 
 <br>
 
-> ⚡ **My goal:** build software that is not only functional, but also scalable, intelligent and enjoyable to use.
+<img src="https://img.shields.io/badge/FOCUS-FLUTTER-0D1117?style=flat-square&logo=flutter&logoColor=54C5F8"/>
+<img src="https://img.shields.io/badge/AI-ENGINEERING-0D1117?style=flat-square&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/BACKEND-NODE.JS-0D1117?style=flat-square&logo=nodedotjs&logoColor=68A063"/>
 
 </td>
 
-<td width="38%" align="center">
+<td width="33%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=94A3B8&icon_color=38BDF8&rank_icon=github" width="100%"/>
+<h3>02 / STATUS</h3>
+
+<br>
+
+**🟢 AVAILABLE**
+
+for interesting projects
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=shahmeerali&style=flat-square&label=PROFILE+VIEWS&color=7C3AED"/>
+**📍 BASED**
+
+Pakistan
+
+<br><br>
+
+**⚡ PRIMARY**
+
+Flutter / Dart
+
+<br><br>
+
+**🧠 EXPLORING**
+
+AI Systems
 
 </td>
 
 </tr>
 </table>
 
----
+<br>
 
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
 
-<!-- ANIMATED ROLE CARDS -->
+<!-- BIG METRIC CARDS -->
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ⚡ What I Do
-
-</div>
+<!-- ══════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart" width="100"/>
+<h2>📱</h2>
 
-<h3>📱 MOBILE</h3>
+<h2>FLUTTER</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2200&pause=700&color=38BDF8&center=true&width=240&lines=Flutter+%2B+Dart;Clean+Architecture;Beautiful+UI;Production+Apps"/>
-
-<br>
-
-`Flutter` `Dart` `Firebase`
+<sub>PRIMARY STACK</sub>
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow" width="100"/>
+<h2>🤖</h2>
 
-<h3>🤖 AI</h3>
+<h2>AI</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2200&pause=700&color=A78BFA&center=true&width=240&lines=AI+Agents;RAG+Systems;LangGraph;MCP;LLM+Applications"/>
-
-<br>
-
-`Python` `LangChain` `LangGraph`
+<sub>CURRENT FOCUS</sub>
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres" width="100"/>
+<h2>⚙️</h2>
 
-<h3>⚙️ BACKEND</h3>
+<h2>BACKEND</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2200&pause=700&color=34D399&center=true&width=240&lines=REST+APIs;Node.js;Databases;Scalable+Systems;System+Design"/>
+<sub>BUILDING</sub>
 
-<br>
+</td>
 
-`Node.js` `Express` `PostgreSQL`
+<td align="center" width="25%">
+
+<h2>🏗️</h2>
+
+<h2>SYSTEMS</h2>
+
+<sub>LEARNING</sub>
 
 </td>
 
 </tr>
 </table>
 
----
+<br>
 
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
 
-<!-- CURRENTLY BUILDING -->
+<!-- WHAT I BUILD -->
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🚀 Currently Building
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=22C55E&center=true&width=700&lines=%3E_+shipping+new+ideas...;%3E_+experimenting+with+AI...;%3E_+building+Flutter+apps...;%3E_+designing+better+systems..."/>
-
-</div>
+<!-- ══════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🧠 AI Agents
+<h3>03 / WHAT I BUILD</h3>
+
+<br>
+
+### 📱 Mobile Products
+
+**Flutter · Dart · Firebase**
+
+Interfaces that feel fast, clean and intentional.
+
+<br>
+
+### ⚙️ Backend Systems
+
+**Node.js · Express · PostgreSQL**
+
+APIs and services designed around real application needs.
+
+<br>
+
+### 🤖 Intelligent Applications
+
+**Python · LangChain · LangGraph**
+
+Exploring how AI can become part of useful products.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>04 / HOW I WORK</h3>
+
+<br>
 
 ```text
-┌─────────────────────────────┐
-│       AI WORKFLOW           │
-├─────────────────────────────┤
-│                             │
-│  User → Agent → Tools       │
-│           ↓                 │
-│        Reasoning            │
-│           ↓                 │
-│      ┌──────────┐           │
-│      │  Action  │           │
-│      └────┬─────┘           │
-│           ↓                 │
-│        Response             │
-│                             │
-└─────────────────────────────┘
+IDEA
+ │
+ ▼
+UNDERSTAND
+ │
+ ▼
+DESIGN
+ │
+ ▼
+BUILD
+ │
+ ▼
+TEST
+ │
+ ▼
+SHIP
+ │
+ ▼
+IMPROVE
+ ↺
 ```
 
-</td>
+<br>
 
-<td width="50%" valign="top">
-
-### 📱 Flutter Products
-
-```text
-┌─────────────────────────────┐
-│       MOBILE APP            │
-├─────────────────────────────┤
-│                             │
-│     Beautiful UI            │
-│          ↓                  │
-│     Clean Architecture      │
-│          ↓                  │
-│       API Layer             │
-│          ↓                  │
-│       Database              │
-│                             │
-└─────────────────────────────┘
-```
+> **Simple systems. Clean code.**
+>
+> **Useful products. Continuous improvement.**
 
 </td>
 
 </tr>
 </table>
 
----
+<br>
 
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
 
-<!-- TECH STACK -->
+<!-- STACK -->
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🛠️ Tech Arsenal
-
-</div>
+<!-- ══════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
 
+<td colspan="2">
+
+<h3>05 / TECHNOLOGY</h3>
+
+</td>
+
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
-### 💻 Languages
+### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=dart,kotlin,java,python,cpp,javascript&perline=6"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=dart,python,javascript,kotlin,java,cpp&perline=6"/>
 
 <br><br>
 
-### 📱 Mobile
+`Dart` · `Python` · `JavaScript` · `Kotlin` · `Java` · `C++`
+
+</td>
+
+<td width="50%" valign="top">
+
+### MOBILE
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase&perline=6"/>
 
+<br><br>
+
+`Flutter` · `Android` · `Firebase`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### BACKEND & DATABASE
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase&perline=6"/>
+
+<br><br>
+
+`Node.js` · `Express` · `PostgreSQL` · `MongoDB` · `Supabase`
+
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ Backend
+### AI / ML
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase&perline=6"/>
-
-<br><br>
-
-### 🧠 AI / ML
+<br>
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=6"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge"/>
+`LangChain` · `LangGraph` · `RAG` · `AI Agents` · `MCP`
 
 </td>
 
@@ -261,7 +292,9 @@ My main stack revolves around **Flutter**, while I'm expanding deeper into **AI 
 
 <td colspan="2" align="center">
 
-### 🔧 Tools
+### TOOLING
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&perline=8"/>
 
@@ -271,34 +304,65 @@ My main stack revolves around **Flutter**, while I'm expanding deeper into **AI 
 
 </table>
 
----
+<br>
 
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <!-- GITHUB ANALYTICS -->
 
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
 
-<div align="center">
+<table>
+<tr>
 
-## 📊 GitHub Analytics
+<td colspan="2">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=64748B&center=true&width=600&lines=make+progress+visible.;every+commit+tells+a+story."/>
+<h3>06 / GITHUB ACTIVITY</h3>
 
-</div>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2600&pause=1000&color=64748B&width=650&lines=make+progress+visible.;show+the+work.;keep+building."/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="67%" valign="top">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&bg_color=0D1117&color=94A3B8&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</td>
+
+<td width="33%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=94A3B8&icon_color=8B5CF6&include_all_commits=true" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 <table>
 <tr>
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahmeerali&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=F97316&currStreakLabel=38BDF8" width="100%"/>
+<h3>CONTRIBUTION STREAK</h3>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahmeerali&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=F97316&currStreakLabel=FFFFFF" width="100%"/>
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&layout=donut&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=94A3B8" width="100%"/>
+<h3>LANGUAGE DISTRIBUTION</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&layout=donut&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=94A3B8" width="90%"/>
 
 </td>
 
@@ -307,150 +371,143 @@ My main stack revolves around **Flutter**, while I'm expanding deeper into **AI 
 
 <br>
 
-<div align="center">
+<!-- ══════════════════════════════════════════════════════ -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&bg_color=0D1117&color=CBD5E1&line=7C3AED&point=38BDF8&area_color=312E81&area=true&hide_border=true" width="96%"/>
+<!-- CONTRIBUTION SNAKE -->
 
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<!-- ACHIEVEMENTS -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=shahmeerali&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<!-- LEARNING -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🧠 Learning in Progress
-
-</div>
+<!-- ══════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
 
-<td align="center" width="20%">
+<td>
 
-### 🤖
+<h3>07 / ACTIVITY MAP</h3>
 
-**AI Agents**
+<br>
 
-<img src="https://progress-bar.dev/75/?title=learning&width=120&color=7C3AED"/>
+<div align="center">
 
-</td>
+<img src="https://raw.githubusercontent.com/shahmeerali/shahmeerali/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
-<td align="center" width="20%">
-
-### 🔗
-
-**RAG**
-
-<img src="https://progress-bar.dev/70/?title=learning&width=120&color=7C3AED"/>
-
-</td>
-
-<td align="center" width="20%">
-
-### 🧠
-
-**LangGraph**
-
-<img src="https://progress-bar.dev/65/?title=learning&width=120&color=7C3AED"/>
-
-</td>
-
-<td align="center" width="20%">
-
-### 🔌
-
-**MCP**
-
-<img src="https://progress-bar.dev/55/?title=learning&width=120&color=7C3AED"/>
-
-</td>
-
-<td align="center" width="20%">
-
-### 🏗️
-
-**System Design**
-
-<img src="https://progress-bar.dev/60/?title=learning&width=120&color=7C3AED"/>
+</div>
 
 </td>
 
 </tr>
 </table>
 
----
+<br>
 
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
 
-<!-- PHILOSOPHY -->
+<!-- CURRENT FOCUS -->
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 💡 My Engineering Loop
+<!-- ══════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
 
-<td align="center">
+<td colspan="3">
+
+<h3>08 / CURRENTLY EXPLORING</h3>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
 
 ### 01
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=500&color=38BDF8&center=true&width=140&lines=THINK"/>
+# AI Agents
 
-Understand.
+Building systems where models can **reason, use tools and execute tasks**.
+
+`Agents`
+
+`Tool Calling`
+
+`Workflows`
 
 </td>
 
-<td align="center">
+<td width="33%" valign="top">
 
 ### 02
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=500&color=A78BFA&center=true&width=140&lines=DESIGN"/>
+# RAG
 
-Architect.
+Connecting LLMs to **real data and useful context**.
+
+`Embeddings`
+
+`Retrieval`
+
+`Vector Search`
 
 </td>
 
-<td align="center">
+<td width="33%" valign="top">
 
 ### 03
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=500&color=34D399&center=true&width=140&lines=BUILD"/>
+# MCP
 
-Ship.
+Exploring standardized ways for AI systems to **connect with tools and data**.
+
+`Tools`
+
+`Context`
+
+`Integrations`
 
 </td>
 
-<td align="center">
+</tr>
 
-### 04
+</table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=500&color=FB923C&center=true&width=140&lines=IMPROVE"/>
+<br>
 
-Repeat.
+<!-- ══════════════════════════════════════════════════════ -->
+
+<!-- PHILOSOPHY -->
+
+<!-- ══════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<h1>01</h1>
+
+<h3>BUILD</h3>
+
+Start with something real.
+
+</td>
+
+<td width="33%" align="center">
+
+<h1>02</h1>
+
+<h3>LEARN</h3>
+
+Understand why it works.
+
+</td>
+
+<td width="33%" align="center">
+
+<h1>03</h1>
+
+<h3>ITERATE</h3>
+
+Make the next version better.
 
 </td>
 
@@ -459,40 +516,52 @@ Repeat.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&center=true&width=800&color=FFFFFF&lines=Build+things+people+remember.;Not+just+code+that+compiles."/>
+<!-- ══════════════════════════════════════════════════════ -->
 
-</div>
+<!-- TROPHIES -->
 
----
+<!-- ══════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════ -->
+<table>
+<tr>
 
-<!-- CONNECT -->
+<td align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🌐 Let's Connect
+<h3>09 / ACHIEVEMENTS</h3>
 
 <br>
 
-<a href="https://www.linkedin.com/in/shahmeer-ali-9a09b3327">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=shahmeerali&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1"/>
 
- 
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ══════════════════════════════════════════════════════ -->
+
+<!-- FOOTER -->
+
+<!-- ══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&width=700&lines=BUILD+SOMETHING+WORTH+REMEMBERING.;NOT+JUST+SOMETHING+THAT+COMPILES."/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/shahmeer-ali-9a09b3327">
+<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+</a>
 
 <a href="mailto:shahmeer.devel@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=F87171"/>
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=F87171"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&center=true&width=650&color=7DD3FC&lines=Flutter+%2B+AI+%2B+Backend;Always+building.;Always+learning.;Always+experimenting."/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F172A,50:312E81,100:0F172A&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:05070A,50:111827,100:05070A&animation=twinkling" width="100%"/>
 
 </div>
