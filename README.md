@@ -2,50 +2,50 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:05070A,45:1E1147,100:05070A&text=SHAHMEER%20ALI&fontColor=FFFFFF&fontSize=44&fontAlignY=38&animation=twinkling&desc=Flutter%20%2F%2F%20AI%20%2F%2F%20Backend&descAlignY=58&descSize=16&descColor=94A3B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0014,40:2D0A4E,70:E91E8C,100:0B0014&text=SHAHMEER%20ALI&fontColor=FFFFFF&fontSize=46&fontAlignY=35&animation=twinkling&desc=THE%20DEVELOPER%20ARC%20%E2%80%94%20EPISODE%201&descAlignY=58&descSize=15&descColor=FBB6DA" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=1100&color=8B5CF6&center=true&vCenter=true&width=720&lines=I+turn+ideas+into+working+software.;Mobile+first.+AI+curious.+Backend+capable.;Currently+leveling+up+in+agentic+AI." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=1100&color=FF3D9A&center=true&vCenter=true&width=760&lines=A+quiet+protagonist+with+a+loud+codebase.;Trained+in+the+mountains+of+Flutter+%26+Dart.;Currently+awakening+a+new+power%3A+Agentic+AI." />
 
 <br>
 
-<a href="#identity"><img src="https://img.shields.io/badge/IDENTITY-05070A?style=for-the-badge&logoColor=94A3B8"/></a>
-<a href="#build"><img src="https://img.shields.io/badge/BUILD-05070A?style=for-the-badge&logoColor=94A3B8"/></a>
-<a href="#arsenal"><img src="https://img.shields.io/badge/ARSENAL-05070A?style=for-the-badge&logoColor=94A3B8"/></a>
-<a href="#metrics"><img src="https://img.shields.io/badge/METRICS-05070A?style=for-the-badge&logoColor=94A3B8"/></a>
-<a href="#lab"><img src="https://img.shields.io/badge/LAB-05070A?style=for-the-badge&logoColor=94A3B8"/></a>
-<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-05070A?style=for-the-badge&logoColor=94A3B8"/></a>
+<a href="#character"><img src="https://img.shields.io/badge/📜_CHARACTER_FILE-0B0014?style=for-the-badge&logoColor=FBB6DA"/></a>
+<a href="#style"><img src="https://img.shields.io/badge/⚔️_BATTLE_STYLE-0B0014?style=for-the-badge&logoColor=FBB6DA"/></a>
+<a href="#skilltree"><img src="https://img.shields.io/badge/🌸_SKILL_TREE-0B0014?style=for-the-badge&logoColor=FBB6DA"/></a>
+<a href="#record"><img src="https://img.shields.io/badge/📊_BATTLE_RECORD-0B0014?style=for-the-badge&logoColor=FBB6DA"/></a>
+<a href="#training"><img src="https://img.shields.io/badge/🔥_TRAINING_ARC-0B0014?style=for-the-badge&logoColor=FBB6DA"/></a>
+<a href="#guild"><img src="https://img.shields.io/badge/🏮_GUILD_HALL-0B0014?style=for-the-badge&logoColor=FBB6DA"/></a>
 
 </div>
 
 <br>
 
-<a name="identity"></a>
+<a name="character"></a>
 
-## 🪪 &nbsp;Identity
+## 📜 &nbsp;Character File
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-### Hey, I'm Shahmeer 👋
+### 「 Shahmeer Ali 」— Class: Full-Stack Mage 🧙
 
-A Computer Science student who likes turning ideas into **software that actually ships** — not just prototypes that live in a folder.
+Every good series starts the same way: an ordinary student discovers a power they didn't know they had. Mine turned out to be **turning ideas into software that actually ships** — not prototypes that vanish into a folder like a filler arc nobody watches.
 
-**Flutter** is my home base. From there I'm pushing outward into **AI engineering**, **backend systems**, and the kind of **system design** that keeps a product alive past week one.
+**Flutter** is my home village — the place I trained first and still return to. From there my journey arcs outward into **AI engineering**, **backend systems**, and the kind of **system design** that keeps a product alive past the pilot episode.
 
 <br>
 
-<img src="https://img.shields.io/badge/FOCUS-FLUTTER-05070A?style=flat-square&logo=flutter&logoColor=38BDF8&labelColor=05070A"/>
-<img src="https://img.shields.io/badge/GOING%20DEEPER-AI%20ENGINEERING-05070A?style=flat-square&logo=openai&logoColor=8B5CF6&labelColor=05070A"/>
-<img src="https://img.shields.io/badge/ALSO-BACKEND-05070A?style=flat-square&logo=nodedotjs&logoColor=34D399&labelColor=05070A"/>
+<img src="https://img.shields.io/badge/MAIN_WEAPON-FLUTTER-0B0014?style=flat-square&logo=flutter&logoColor=38BDF8&labelColor=0B0014"/>
+<img src="https://img.shields.io/badge/NEW_POWER-AI_AGENTS-0B0014?style=flat-square&logo=openai&logoColor=E91E8C&labelColor=0B0014"/>
+<img src="https://img.shields.io/badge/SUPPORT_CLASS-BACKEND-0B0014?style=flat-square&logo=nodedotjs&logoColor=34D399&labelColor=0B0014"/>
 
 <br><br>
 
 <details>
-<summary><b>🔎 A little more about how I think</b></summary>
+<summary><b>🎴 Character backstory (click to expand)</b></summary>
 <br>
 
-I don't chase every framework — I pick a stack, go deep, and only reach for something new when it solves a real problem. Right now that means: Flutter for interfaces people actually enjoy using, and AI agents for the parts of an app that shouldn't need a human in the loop.
+I don't collect every technique in the tournament — I master one style, go deep, and only learn a new jutsu when it solves a real fight. Right now that means: Flutter for interfaces people actually enjoy touching, and AI agents for the parts of an app that shouldn't need a human standing over it.
 
 </details>
 
@@ -56,13 +56,13 @@ I don't chase every framework — I pick a stack, go deep, and only reach for so
 <tr>
 <td width="50%" valign="top">
 
-> 🟢 **STATUS**
-> Open to interesting builds
+> 🟢 **STATUS EFFECT**
+> Open to new builds
 
 </td>
 <td width="50%" valign="top">
 
-> 📍 **BASED IN**
+> 📍 **HOME VILLAGE**
 > Pakistan
 
 </td>
@@ -70,64 +70,68 @@ I don't chase every framework — I pick a stack, go deep, and only reach for so
 <tr>
 <td width="50%" valign="top">
 
-> ⚡ **PRIMARY STACK**
+> ⚔️ **MAIN CLASS**
 > Flutter / Dart
 
 </td>
 <td width="50%" valign="top">
 
-> 🧠 **EXPLORING**
+> 🌀 **AWAKENING**
 > AI Agents & RAG
 
 </td>
 </tr>
 </table>
 
+<br>
+
+> 💬 *"The strongest code isn't the one that never breaks — it's the one someone bothers to fix."*
+
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=8B5CF6&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=E91E8C&animation=fadeIn" width="100%"/>
 </div>
 
-<a name="build"></a>
+<a name="style"></a>
 
-## 🧩 &nbsp;What I Build
+## ⚔️ &nbsp;Battle Style — What I Build
 
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/MOBILE%20PRODUCTS-38BDF8?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/📱_MOBILE_PRODUCTS-38BDF8?style=for-the-badge&logoColor=white"/>
 
 <br><br>
 
 **Flutter · Dart · Firebase**
 
-Interfaces that feel fast, clean, and intentional — built to be used, not just demoed.
+Interfaces with clean footwork — fast, intentional, built to be used, not just demoed for the judges.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/BACKEND%20SYSTEMS-34D399?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🛡️_BACKEND_SYSTEMS-34D399?style=for-the-badge&logoColor=white"/>
 
 <br><br>
 
 **Node.js · Express · PostgreSQL**
 
-APIs and services designed around how the app is actually used, not just what's easy to build.
+The support class holding the party together — APIs built around how the app is actually used.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/INTELLIGENT%20APPS-8B5CF6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌀_INTELLIGENT_APPS-E91E8C?style=for-the-badge&logoColor=white"/>
 
 <br><br>
 
 **Python · LangChain · LangGraph**
 
-Figuring out where AI genuinely improves a product — and where it's just noise.
+The forbidden technique — figuring out where AI genuinely levels up a product, and where it's just genjutsu.
 
 </td>
 </tr>
@@ -137,25 +141,25 @@ Figuring out where AI genuinely improves a product — and where it's just noise
 
 <div align="center">
 
-<sub>HOW A PROJECT MOVES THROUGH MY HANDS</sub>
+<sub>THE ARC EVERY PROJECT GOES THROUGH</sub>
 
 <br><br>
 
-<code>IDEA</code> → <code>UNDERSTAND</code> → <code>DESIGN</code> → <code>BUILD</code> → <code>TEST</code> → <code>SHIP</code> → <code>IMPROVE</code> ↺
+<code>IDEA</code> → <code>UNDERSTAND</code> → <code>DESIGN</code> → <code>BUILD</code> → <code>TEST</code> → <code>SHIP</code> → <code>NEXT ARC ↺</code>
 
 </div>
 
 <br>
 
-<a name="arsenal"></a>
+<a name="skilltree"></a>
 
-## 🛠️ &nbsp;Arsenal
+## 🌸 &nbsp;Skill Tree
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/LANGUAGES-05070A?style=flat-square&labelColor=05070A&color=94A3B8"/>
+<img src="https://img.shields.io/badge/📖_LANGUAGES_LEARNED-0B0014?style=flat-square&labelColor=0B0014&color=FBB6DA"/>
 
 <br><br>
 
@@ -168,7 +172,7 @@ Figuring out where AI genuinely improves a product — and where it's just noise
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/MOBILE-38BDF8?style=flat-square&labelColor=05070A"/>
+<img src="https://img.shields.io/badge/📱_MOBILE_JUTSU-38BDF8?style=flat-square&labelColor=0B0014"/>
 
 <br><br>
 
@@ -183,7 +187,7 @@ Figuring out where AI genuinely improves a product — and where it's just noise
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/BACKEND%20%26%20DATA-34D399?style=flat-square&labelColor=05070A"/>
+<img src="https://img.shields.io/badge/🛡️_BACKEND_%26_DATA-34D399?style=flat-square&labelColor=0B0014"/>
 
 <br><br>
 
@@ -196,7 +200,7 @@ Figuring out where AI genuinely improves a product — and where it's just noise
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-8B5CF6?style=flat-square&labelColor=05070A"/>
+<img src="https://img.shields.io/badge/🌀_FORBIDDEN_AI_ARTS-E91E8C?style=flat-square&labelColor=0B0014"/>
 
 <br><br>
 
@@ -211,7 +215,7 @@ Figuring out where AI genuinely improves a product — and where it's just noise
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://img.shields.io/badge/TOOLING-FB923C?style=flat-square&labelColor=05070A"/>
+<img src="https://img.shields.io/badge/🎒_INVENTORY-FB923C?style=flat-square&labelColor=0B0014"/>
 
 <br><br>
 
@@ -222,23 +226,23 @@ Figuring out where AI genuinely improves a product — and where it's just noise
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=34D399&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=38BDF8&animation=fadeIn" width="100%"/>
 </div>
 
-<a name="metrics"></a>
+<a name="record"></a>
 
-## 📊 &nbsp;Metrics
+## 📊 &nbsp;Battle Record
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=shahmeerali&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/shahmeerali?label=FOLLOWERS&style=flat-square&color=38BDF8&labelColor=05070A"/>
+<img src="https://komarev.com/ghpvc/?username=shahmeerali&label=SCOUTED%20BY&color=E91E8C&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/shahmeerali?label=PARTY%20MEMBERS&style=flat-square&color=38BDF8&labelColor=0B0014"/>
 
 </div>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&bg_color=0D1117&color=94A3B8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&bg_color=0B0014&color=FBB6DA&line=E91E8C&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 <br>
 
@@ -246,25 +250,23 @@ Figuring out where AI genuinely improves a product — and where it's just noise
 <tr>
 <td width="34%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=94A3B8&icon_color=8B5CF6&include_all_commits=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shahmeerali&show_icons=true&hide_border=true&bg_color=0B0014&title_color=FFFFFF&text_color=FBB6DA&icon_color=E91E8C&include_all_commits=true" width="100%"/>
 
 </td>
 <td width="33%" valign="top">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahmeerali&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=FB923C&currStreakLabel=FFFFFF" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahmeerali&theme=dark&hide_border=true&background=0B0014&ring=E91E8C&fire=FB923C&currStreakLabel=FFFFFF" width="100%"/>
 
 </td>
 <td width="33%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&layout=donut&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=94A3B8" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerali&layout=donut&hide_border=true&bg_color=0B0014&title_color=FFFFFF&text_color=FBB6DA" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<a name="pulse"></a>
-
-### 📡 Contribution Pulse
+### 📡 Training Log (Contribution Snake)
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/shahmeerali/shahmeerali/output/github-contribution-grid-snake-dark.svg" width="95%"/>
@@ -272,9 +274,9 @@ Figuring out where AI genuinely improves a product — and where it's just noise
 
 <br>
 
-<a name="lab"></a>
+<a name="training"></a>
 
-## 🧪 &nbsp;The Lab — Currently Exploring
+## 🔥 &nbsp;Training Arc — Currently Exploring
 
 <table>
 <tr>
@@ -284,7 +286,7 @@ Figuring out where AI genuinely improves a product — and where it's just noise
 <summary><b>🤖 AI Agents</b></summary>
 <br>
 
-Systems where a model can reason, call tools, and actually finish a task — not just answer a prompt.
+Summoned constructs that can reason, call tools, and actually finish a quest — not just answer one riddle and vanish.
 
 `Agents` `Tool Calling` `Workflows`
 
@@ -297,7 +299,7 @@ Systems where a model can reason, call tools, and actually finish a task — not
 <summary><b>📚 RAG</b></summary>
 <br>
 
-Connecting LLMs to real, live data so answers are grounded instead of guessed.
+Linking a spellcaster to the real, living archive — so answers are grounded instead of conjured from thin air.
 
 `Embeddings` `Retrieval` `Vector Search`
 
@@ -310,7 +312,7 @@ Connecting LLMs to real, live data so answers are grounded instead of guessed.
 <summary><b>🔌 MCP</b></summary>
 <br>
 
-A standard way for AI systems to plug into tools and context instead of one-off integrations every time.
+One scroll that lets any AI plug into any tool — instead of forging a new key for every single door.
 
 `Tools` `Context` `Integrations`
 
@@ -326,24 +328,24 @@ A standard way for AI systems to plug into tools and context instead of one-off 
 
 <blockquote>
 <h3>01 · BUILD</h3>
-Start with something real, not a diagram.
+Start with something real, not a scroll of theory.
 </blockquote>
 
 <blockquote>
 <h3>02 · LEARN</h3>
-Understand why it actually works.
+Understand why the technique actually works.
 </blockquote>
 
 <blockquote>
 <h3>03 · ITERATE</h3>
-Make the next version better than this one.
+Come back stronger than the last arc.
 </blockquote>
 
 </div>
 
 <a name="trophies"></a>
 
-## 🏆 &nbsp;Achievements
+## 🏆 &nbsp;Achievements Unlocked
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shahmeerali&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1"/>
@@ -354,36 +356,36 @@ Make the next version better than this one.
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api" width="450"/>
 <br>
-<sub>refreshes with a new one-liner every visit — a small dose of chaos for reading this far ⤴</sub>
+<sub>a random one-liner respawns every visit — a filler episode for making it this far ⤴</sub>
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=8B5CF6&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=E91E8C&animation=fadeIn" width="100%"/>
 </div>
 
-<a name="contact"></a>
+<a name="guild"></a>
 
-## 📮 &nbsp;Contact
+## 🏮 &nbsp;Guild Hall — Contact
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1000&color=FFFFFF&center=true&width=720&lines=BUILD+SOMETHING+WORTH+REMEMBERING.;NOT+JUST+SOMETHING+THAT+COMPILES." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=1000&color=FFFFFF&center=true&width=760&lines=BUILD+SOMETHING+WORTH+REMEMBERING.;NOT+JUST+SOMETHING+THAT+COMPILES." />
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/shahmeer-ali-9a09b3327">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LINKEDIN-1A0330?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 <a href="mailto:shahmeer.devel@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=F87171"/>
+<img src="https://img.shields.io/badge/EMAIL-1A0330?style=for-the-badge&logo=gmail&logoColor=F87171"/>
 </a>
 
 <br><br>
 
-<a href="#top"><sub>↑ back to top</sub></a>
+<a href="#top"><sub>↑ back to episode start</sub></a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:05070A,50:1E1147,100:05070A&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0B0014,50:2D0A4E,100:0B0014&animation=twinkling" width="100%"/>
 
 </div>
