@@ -27,12 +27,9 @@
 
 <table>
 <tr>
-<td width="18%" valign="top" align="center">
+<td width="58%" valign="top">
 
-<img src="./assets/chibi-mascot.svg" width="130"/>
-
-</td>
-<td width="40%" valign="top">
+<img src="./assets/chibi-mascot.svg" width="90" align="right"/>
 
 ### 「 Shahmeer Ali 」— Class: Full-Stack Mage 🧙
 
@@ -243,31 +240,27 @@ The forbidden technique — figuring out where AI genuinely levels up a product,
 
 </div>
 
+<br><br>
+
+<p align="center"><sub>🗺️ &nbsp;GROWTH MAP</sub></p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&bg_color=12010F&color=FBB6DA&line=E91E8C&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+<br><br>
+
+<p align="center"><sub>🔥 &nbsp;COMBO METER</sub></p>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahmeerali&theme=dark&hide_border=true&background=12010F&ring=E91E8C&fire=FB923C&currStreakLabel=FFFFFF&sideNums=FBB6DA&sideLabels=FBB6DA&dates=94A3B8" width="65%"/>
+</div>
+
+<br><br>
+
+<p align="center"><sub>🌸 &nbsp;ELEMENT AFFINITY</sub></p>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shahmeerali&layout=compact&hide_border=true&bg_color=12010F&title_color=FFFFFF&text_color=FBB6DA" width="100%"/>
+
 <br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeerali&bg_color=12010F&color=FBB6DA&line=E91E8C&point=FFFFFF&area=true&hide_border=false&border=E91E8C" width="100%"/>
-
-<br>
-
-<table>
-<tr>
-<td width="34%" valign="top">
-
-<img src="https://github-stats-extended.vercel.app/api?username=shahmeerali&show_icons=true&hide_border=false&border_color=E91E8C&bg_color=12010F&title_color=FFFFFF&text_color=FBB6DA&icon_color=E91E8C&include_all_commits=true" width="100%"/>
-
-</td>
-<td width="33%" valign="top">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahmeerali&theme=dark&hide_border=false&border=E91E8C&background=12010F&ring=E91E8C&fire=FB923C&currStreakLabel=FFFFFF&sideNums=FBB6DA&sideLabels=FBB6DA&dates=94A3B8" width="100%"/>
-
-</td>
-<td width="33%" valign="top">
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shahmeerali&layout=donut&hide_border=false&border_color=E91E8C&bg_color=12010F&title_color=FFFFFF&text_color=FBB6DA" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 ### 📡 Training Log (Contribution Snake)
 
