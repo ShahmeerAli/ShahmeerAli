@@ -4,6 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0014,40:2D0A4E,70:E91E8C,100:0B0014&text=SHAHMEER%20ALI&fontColor=FFFFFF&fontSize=46&fontAlignY=35&animation=twinkling&desc=THE%20DEVELOPER%20ARC%20%E2%80%94%20EPISODE%201&descAlignY=58&descSize=15&descColor=FBB6DA" width="100%"/>
 
+<img src="./assets/hero-banner.svg" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=1100&color=FF3D9A&center=true&vCenter=true&width=760&lines=A+quiet+protagonist+with+a+loud+codebase.;Trained+in+the+mountains+of+Flutter+%26+Dart.;Currently+awakening+a+new+power%3A+Agentic+AI." />
 
 <br>
@@ -17,7 +19,7 @@
 
 </div>
 
-<br>
+<img src="./assets/divider-speedlines.svg" width="100%"/>
 
 <a name="character"></a>
 
@@ -25,7 +27,12 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="18%" valign="top" align="center">
+
+<img src="./assets/chibi-mascot.svg" width="130"/>
+
+</td>
+<td width="40%" valign="top">
 
 ### 「 Shahmeer Ali 」— Class: Full-Stack Mage 🧙
 
@@ -91,9 +98,7 @@ I don't collect every technique in the tournament — I master one style, go dee
 </tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=E91E8C&animation=fadeIn" width="100%"/>
-</div>
+<img src="./assets/divider-speedlines.svg" width="100%"/>
 
 <a name="style"></a>
 
@@ -149,7 +154,7 @@ The forbidden technique — figuring out where AI genuinely levels up a product,
 
 </div>
 
-<br>
+<img src="./assets/divider-speedlines.svg" width="100%"/>
 
 <a name="skilltree"></a>
 
@@ -225,9 +230,7 @@ The forbidden technique — figuring out where AI genuinely levels up a product,
 </tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=38BDF8&animation=fadeIn" width="100%"/>
-</div>
+<img src="./assets/divider-speedlines.svg" width="100%"/>
 
 <a name="record"></a>
 
@@ -272,7 +275,7 @@ The forbidden technique — figuring out where AI genuinely levels up a product,
 <img src="https://raw.githubusercontent.com/shahmeerali/shahmeerali/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
 
-<br>
+<img src="./assets/divider-speedlines.svg" width="100%"/>
 
 <a name="training"></a>
 
@@ -359,15 +362,13 @@ Come back stronger than the last arc.
 <sub>a random one-liner respawns every visit — a filler episode for making it this far ⤴</sub>
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=E91E8C&animation=fadeIn" width="100%"/>
-</div>
-
 <a name="guild"></a>
 
 ## 🏮 &nbsp;Guild Hall — Contact
 
 <div align="center">
+
+<img src="./assets/footer-signoff.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=1000&color=FFFFFF&center=true&width=760&lines=BUILD+SOMETHING+WORTH+REMEMBERING.;NOT+JUST+SOMETHING+THAT+COMPILES." />
 
