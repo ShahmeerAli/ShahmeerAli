@@ -1,0 +1,34 @@
+<svg width="1200" height="110" viewBox="0 0 1200 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#12010F"/>
+      <stop offset="100%" stop-color="#2D0A4E"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="110" fill="url(#panel)"/>
+  <rect x="0" y="0" width="1200" height="110" fill="none" stroke="#E91E8C" stroke-width="1" opacity="0.4"/>
+
+  <!-- corner brackets -->
+  <g stroke="#FF3D9A" stroke-width="3" fill="none">
+    <path d="M18,10 L10,10 L10,18"/>
+    <path d="M1182,10 L1190,10 L1190,18"/>
+    <path d="M18,100 L10,100 L10,92"/>
+    <path d="M1182,100 L1190,100 L1190,92"/>
+  </g>
+
+  <!-- side diamonds -->
+  <path d="M110,55 l10,-10 10,10 -10,10 Z" fill="#FBB6DA" opacity="0.85"/>
+  <path d="M1090,55 l10,-10 10,10 -10,10 Z" fill="#FBB6DA" opacity="0.85"/>
+
+  <!-- small stars -->
+  <g fill="#FFFFFF" opacity="0.6">
+    <circle cx="160" cy="30" r="1.4"/>
+    <circle cx="1050" cy="80" r="1.3"/>
+    <circle cx="200" cy="85" r="1.2"/>
+    <circle cx="1010" cy="28" r="1.4"/>
+  </g>
+
+  <text x="600" y="52" font-family="Georgia, serif" font-weight="bold" font-size="30" fill="#FFFFFF" text-anchor="middle" letter-spacing="4">STATUS WINDOW</text>
+  <text x="600" y="80" font-family="JetBrains Mono, monospace" font-size="13" fill="#FBB6DA" text-anchor="middle" letter-spacing="2" opacity="0.9">— BATTLE RECORD —</text>
+</svg>
