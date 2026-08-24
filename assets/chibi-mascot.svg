@@ -1,0 +1,17 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bubble" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2D0A4E"/>
+      <stop offset="100%" stop-color="#0B0014"/>
+    </radialGradient>
+  </defs>
+  <circle cx="80" cy="80" r="78" fill="url(#bubble)" stroke="#E91E8C" stroke-width="2"/>
+  <circle cx="80" cy="90" r="42" fill="#FCD9C4"/>
+  <path d="M45,80 C40,40 60,20 80,20 C100,20 120,40 115,80 C108,60 95,55 80,55 C65,55 52,60 45,80 Z" fill="#0B0014"/>
+  <circle cx="65" cy="92" r="5" fill="#0B0014"/>
+  <circle cx="95" cy="92" r="5" fill="#0B0014"/>
+  <circle cx="60" cy="102" r="6" fill="#FF3D9A" opacity="0.5"/>
+  <circle cx="100" cy="102" r="6" fill="#FF3D9A" opacity="0.5"/>
+  <path d="M70,108 Q80,116 90,108" stroke="#0B0014" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M118,50 l4,10 10,4 -10,4 -4,10 -4,-10 -10,-4 10,-4 Z" fill="#FBB6DA"/>
+</svg>

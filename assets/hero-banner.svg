@@ -1,0 +1,82 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0B0014"/>
+      <stop offset="55%" stop-color="#2D0A4E"/>
+      <stop offset="100%" stop-color="#E91E8C"/>
+    </linearGradient>
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FBD8EC" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FBD8EC" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="cape" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF3D9A"/>
+      <stop offset="100%" stop-color="#2D0A4E" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#sky)"/>
+
+  <g fill="#FFFFFF">
+    <circle cx="80" cy="40" r="1.6" opacity="0.9"/>
+    <circle cx="140" cy="80" r="1.2" opacity="0.7"/>
+    <circle cx="230" cy="30" r="1.8" opacity="0.8"/>
+    <circle cx="330" cy="60" r="1.3" opacity="0.6"/>
+    <circle cx="410" cy="25" r="1.5" opacity="0.9"/>
+    <circle cx="520" cy="45" r="1.2" opacity="0.7"/>
+    <circle cx="700" cy="30" r="1.6" opacity="0.85"/>
+    <circle cx="780" cy="70" r="1.2" opacity="0.6"/>
+    <circle cx="900" cy="35" r="1.7" opacity="0.9"/>
+    <circle cx="960" cy="90" r="1.3" opacity="0.6"/>
+    <circle cx="150" cy="120" r="1.1" opacity="0.5"/>
+    <circle cx="480" cy="100" r="1.1" opacity="0.5"/>
+  </g>
+
+  <circle cx="1080" cy="70" r="70" fill="url(#moonGlow)"/>
+  <circle cx="1080" cy="70" r="34" fill="#FBD8EC"/>
+  <circle cx="1096" cy="58" r="30" fill="#0B0014"/>
+
+  <path d="M0,320 L0,260 L90,210 L170,250 L260,200 L340,245 L430,205 L520,255 L600,215 L690,250 L780,210 L870,245 L960,205 L1050,250 L1140,215 L1200,240 L1200,320 Z" fill="#1A0330" opacity="0.65"/>
+
+  <g fill="#12010F" opacity="0.85">
+    <rect x="120" y="190" width="14" height="110"/>
+    <rect x="220" y="190" width="14" height="110"/>
+    <rect x="105" y="175" width="145" height="14"/>
+    <rect x="112" y="200" width="130" height="10"/>
+  </g>
+
+  <g stroke="#FBB6DA" stroke-width="1.4" opacity="0.5">
+    <line x1="600" y1="160" x2="200" y2="20"/>
+    <line x1="600" y1="160" x2="260" y2="90"/>
+    <line x1="600" y1="160" x2="330" y2="10"/>
+    <line x1="600" y1="160" x2="1000" y2="10"/>
+    <line x1="600" y1="160" x2="950" y2="90"/>
+    <line x1="600" y1="160" x2="1050" y2="150"/>
+    <line x1="600" y1="160" x2="500" y2="0"/>
+    <line x1="600" y1="160" x2="700" y2="0"/>
+  </g>
+
+  <g>
+    <path d="M200,90 q6,-10 12,0 q-6,10 -12,0 Z" fill="#FBB6DA" opacity="0.85" transform="rotate(20 206 90)"/>
+    <path d="M950,140 q6,-10 12,0 q-6,10 -12,0 Z" fill="#FF3D9A" opacity="0.8" transform="rotate(-15 956 140)"/>
+    <path d="M380,50 q6,-10 12,0 q-6,10 -12,0 Z" fill="#F8BBD9" opacity="0.75" transform="rotate(45 386 50)"/>
+    <path d="M850,60 q6,-10 12,0 q-6,10 -12,0 Z" fill="#FBB6DA" opacity="0.8" transform="rotate(-30 856 60)"/>
+    <path d="M700,220 q6,-10 12,0 q-6,10 -12,0 Z" fill="#FF3D9A" opacity="0.7" transform="rotate(60 706 220)"/>
+    <path d="M470,240 q6,-10 12,0 q-6,10 -12,0 Z" fill="#F8BBD9" opacity="0.75" transform="rotate(10 476 240)"/>
+    <path d="M310,190 q6,-10 12,0 q-6,10 -12,0 Z" fill="#FBB6DA" opacity="0.7" transform="rotate(-50 316 190)"/>
+  </g>
+
+  <g>
+    <circle cx="600" cy="150" r="60" fill="#FF3D9A" opacity="0.15"/>
+    <path d="M560,180 C520,230 520,290 560,310 C600,270 640,270 660,310 C700,290 680,220 640,180 Z" fill="url(#cape)" opacity="0.7"/>
+    <path d="M580,250 L575,310 L595,310 L600,255 Z" fill="#0B0014"/>
+    <path d="M620,250 L625,310 L605,310 L600,255 Z" fill="#0B0014"/>
+    <path d="M575,180 L625,180 L635,255 L565,255 Z" fill="#0B0014"/>
+    <path d="M580,190 C550,175 530,150 520,120 L530,110 C545,140 565,165 590,180 Z" fill="#0B0014"/>
+    <path d="M620,190 C610,210 605,225 605,240 L620,240 C622,225 628,210 635,195 Z" fill="#0B0014"/>
+    <rect x="500" y="90" width="34" height="24" rx="3" fill="#1A0330" stroke="#FF3D9A" stroke-width="1.5"/>
+    <text x="517" y="107" font-family="monospace" font-size="12" fill="#FF3D9A" text-anchor="middle">&lt;/&gt;</text>
+    <circle cx="600" cy="150" r="26" fill="#0B0014"/>
+    <path d="M578,132 L570,105 L588,122 L595,95 L602,124 L612,98 L618,124 L630,108 L624,134 Z" fill="#0B0014"/>
+  </g>
+</svg>
