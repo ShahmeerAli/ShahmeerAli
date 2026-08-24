@@ -1,0 +1,26 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dusk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2D0A4E"/>
+      <stop offset="55%" stop-color="#FF3D9A"/>
+      <stop offset="100%" stop-color="#FB923C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#dusk)"/>
+  <g fill="#FFFFFF" opacity="0.8">
+    <circle cx="120" cy="30" r="1.4"/>
+    <circle cx="260" cy="50" r="1.2"/>
+    <circle cx="980" cy="35" r="1.5"/>
+    <circle cx="1090" cy="60" r="1.2"/>
+  </g>
+  <path d="M0,280 L0,230 L150,200 L300,235 L460,195 L620,230 L780,200 L950,235 L1100,205 L1200,225 L1200,280 Z" fill="#1A0330" opacity="0.55"/>
+  <g fill="#0B0014">
+    <circle cx="600" cy="170" r="18"/>
+    <path d="M585,188 L615,188 L622,235 L578,235 Z"/>
+    <path d="M580,235 L572,270 L588,270 L592,238 Z"/>
+    <path d="M618,235 L628,268 L612,268 L608,238 Z"/>
+    <path d="M615,195 C635,200 648,190 655,175 L648,168 C640,180 628,188 613,186 Z"/>
+    <rect x="628" y="178" width="16" height="26" rx="3"/>
+  </g>
+  <text x="600" y="60" font-family="Georgia, serif" font-style="italic" font-size="26" fill="#FFFFFF" text-anchor="middle" opacity="0.9">to be continued...</text>
+</svg>
