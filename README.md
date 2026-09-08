@@ -258,9 +258,6 @@ The forbidden technique — figuring out where AI genuinely levels up a product,
 
 <p align="center"><sub>🌸 &nbsp;ELEMENT AFFINITY</sub></p>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shahmeerali&layout=compact&hide_border=true&bg_color=12010F&title_color=FFFFFF&text_color=FBB6DA" width="100%"/>
-
-<br>
 
 ### 📡 Training Log (Contribution Snake)
 
