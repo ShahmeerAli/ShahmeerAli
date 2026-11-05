@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 200" width="1280" height="200" role="img" aria-label="Less noise. More shipped.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#07090C" stop-opacity="0"/><stop offset="1" stop-color="#07090C"/>
+    </linearGradient>
+    <linearGradient id="rock" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#121A22"/><stop offset="1" stop-color="#07090C"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="1" r="0.6">
+      <stop offset="0" stop-color="#7DD3EA" stop-opacity="0.16"/><stop offset="1" stop-color="#7DD3EA" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .pulse { animation: pulse 6s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: .6; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="1280" height="200" fill="#07090C"/>
+  <rect width="1280" height="200" fill="url(#glow)" class="pulse"/>
+  <path d="M0 200 L0 150 L120 120 L230 140 L340 100 L450 130 L560 95 L640 120 L720 92 L830 128 L940 104 L1050 138 L1160 112 L1280 140 L1280 200 Z" fill="url(#rock)"/>
+  <text x="640" y="60" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="5" fill="#7DD3EA">LESS NOISE. MORE SHIPPED.</text>
+</svg>
