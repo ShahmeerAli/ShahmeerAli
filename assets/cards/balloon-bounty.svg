@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 250" width="560" height="250" role="img" aria-label="Balloon Bounty: Pop the right balloons so their prizes bounce, roll and drop into the buckets. Delivery, not destruction.">
+  <defs>
+    <radialGradient id="g" cx="1" cy="0" r="0.9">
+      <stop offset="0" stop-color="#8C99A7" stop-opacity="0.13"/><stop offset="1" stop-color="#8C99A7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0.75" y="0.75" width="558.5" height="248.5" rx="14" fill="#0C1118" stroke="#1B2430" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="558.5" height="248.5" rx="14" fill="url(#g)"/>
+  <circle cx="38" cy="41" r="4" fill="#8C99A7"/>
+  <text x="52" y="45.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2.5" fill="#8C99A7">GAME  ·  IN THE WORKSHOP</text>
+
+  <text x="32" y="88" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" font-weight="600" fill="#E8EDF2">Balloon Bounty</text>
+  <text x="32" y="124" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16.5" fill="#8C99A7">Pop the right balloons so their prizes bounce, roll and</text>
+  <text x="32" y="149" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16.5" fill="#8C99A7">drop into the buckets. Delivery, not destruction.</text>
+  <rect x="32.0" y="204" width="58.5" height="24" rx="12" fill="#101922" stroke="#1E2C38"/>
+  <text x="61.2" y="220.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#7DD3EA">Godot</text>
+  <rect x="98.5" y="204" width="73.1" height="24" rx="12" fill="#101922" stroke="#1E2C38"/>
+  <text x="135.1" y="220.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#7DD3EA">Physics</text>
+  <rect x="179.6" y="204" width="73.1" height="24" rx="12" fill="#101922" stroke="#1E2C38"/>
+  <text x="216.1" y="220.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#7DD3EA">Android</text>
+</svg>

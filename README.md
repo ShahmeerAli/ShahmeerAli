@@ -29,9 +29,23 @@ I work mostly in **Flutter**, sometimes **Kotlin**. Lately I build agents with *
 
 ### In the workshop
 
+<sub>Not released yet. Six games and an app, built one at a time.</sub>
+
 <p>
-  <img src="./assets/cards/quizkai.svg" width="49%" alt="QuizKai: real-time anime quiz battles. In development."/>
-  <img src="./assets/cards/quack-rapids.svg" width="49%" alt="Quack Rapids: a kids' river adventure game in Godot. In development."/>
+  <img src="./assets/cards/quizkai.svg" width="49%" alt="QuizKai: real-time anime quiz battles. App in development."/>
+  <img src="./assets/cards/zero-hour.svg" width="49%" alt="Zero Hour: party deduction game for 4 to 10 phones. In development."/>
+</p>
+<p>
+  <img src="./assets/cards/gizmorun.svg" width="49%" alt="GizmoRun: physics puzzle game with 112 levels. In development."/>
+  <img src="./assets/cards/mosaic-rush.svg" width="49%" alt="Mosaic Rush: conveyor puzzle that restores mosaics. In development."/>
+</p>
+<p>
+  <img src="./assets/cards/bladespan.svg" width="49%" alt="Bladespan: sword arena where your blade is your health. In development."/>
+  <img src="./assets/cards/sky-convoy.svg" width="49%" alt="Sky Convoy: car convoy racing on sky tracks. In development."/>
+</p>
+<p>
+  <img src="./assets/cards/balloon-bounty.svg" width="49%" alt="Balloon Bounty: pop balloons to deliver prizes. In development."/>
+  <img src="./assets/cards/quack-rapids.svg" width="49%" alt="Quack Rapids: kids' river adventure. In development."/>
 </p>
 
 ### Open source
@@ -42,10 +56,10 @@ I work mostly in **Flutter**, sometimes **Kotlin**. Lately I build agents with *
 </p>
 <p>
   <a href="https://github.com/ShahmeerAli/DeCentralized-Chatbot"><img src="./assets/cards/decentralized-chatbot.svg" width="49%" alt="DeCentralized Chatbot: agents that debate and cite evidence through MCP."/></a>
-  <a href="https://github.com/ShahmeerAli/Git-Repo-Sense"><img src="./assets/cards/git-repo-sense.svg" width="49%" alt="Git Repo Sense: Git assistant built on LangGraph and MCP."/></a>
+  <a href="https://github.com/ShahmeerAli/Animation-Turf"><img src="./assets/cards/animation-turf.svg" width="49%" alt="Animation Turf: motion-heavy agent-select screen in Flutter."/></a>
 </p>
 
-<sub>Also on the shelf: <a href="https://github.com/ShahmeerAli/Face-Detection-Google-MLKit">Face liveness with ML Kit</a> · <a href="https://github.com/ShahmeerAli/Animation-Turf">Animation Turf</a> · <a href="https://github.com/ShahmeerAli/Research-Agent">Research Agent</a> · <a href="https://github.com/ShahmeerAli/YT-RAG-BASED-AGENT">YouTube RAG Agent</a> · <a href="https://github.com/ShahmeerAli/JAIB-KHARCH">Jaib Kharch</a></sub>
+<sub>Also on the shelf: <a href="https://github.com/ShahmeerAli/Face-Detection-Google-MLKit">Face liveness with ML Kit</a> · <a href="https://github.com/ShahmeerAli/Research-Agent">Research Agent</a> · <a href="https://github.com/ShahmeerAli/YT-RAG-BASED-AGENT">YouTube RAG Agent</a> · <a href="https://github.com/ShahmeerAli/JAIB-KHARCH">Jaib Kharch</a></sub>
 
 <br>
 

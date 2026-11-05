@@ -137,6 +137,8 @@ STATUS = {
     "live": ("LIVE ON GOOGLE PLAY", GOLD),
     "oss": ("OPEN SOURCE", ICE),
     "wip": ("IN THE WORKSHOP", MIST),
+    "game": ("GAME  ·  IN THE WORKSHOP", MIST),
+    "app": ("APP  ·  IN THE WORKSHOP", MIST),
 }
 
 
@@ -189,10 +191,10 @@ card("calorica", "live", "Calorica",
 card("pixelfit", "live", "PixelFit",
      "Compress photos to an exact KB size, resize for passport and visa forms, convert HEIC to JPG. Fully offline.",
      ["Android", "On-device", "Pixels Pushed"])
-card("quizkai", "wip", "QuizKai",
+card("quizkai", "app", "QuizKai",
      "Real-time, head-to-head anime quiz battles. Server-side scoring, matchmaking in under 8 seconds, leaderboards.",
      ["Flutter", "Node.js", "Socket.IO", "Redis", "Supabase"], arrow=False)
-card("quack-rapids", "wip", "Quack Rapids",
+card("quack-rapids", "game", "Quack Rapids",
      "A one-thumb river adventure for kids: rescue ducklings, solve gentle water puzzles, race rivals. Nothing ever gets hurt.",
      ["Godot", "Android", "Web"], arrow=False)
 card("humsafar", "oss", "Humsafar",
@@ -204,7 +206,27 @@ card("support-agent", "oss", "AI Support Ticket Agent",
 card("decentralized-chatbot", "oss", "DeCentralized Chatbot",
      "Several agents debate and verify each answer, pull evidence through MCP servers, and ship it with citations.",
      ["LangGraph", "MCP", "Multi-agent"])
-card("git-repo-sense", "oss", "Git Repo Sense",
-     "A Git assistant that reads your repository and runs Git workflows from plain-language requests.",
-     ["LangGraph", "MCP", "Python"])
+card("animation-turf", "oss", "Animation Turf",
+     "An agent-select screen built for motion: Lottie splash, a fluid PageView slider and gradient themes that shift per character.",
+     ["Flutter", "Lottie", "Animations"])
+
+# ---- games in the workshop
+card("zero-hour", "game", "Zero Hour",
+     "A party deduction game for 4 to 10 phones. Everyone holds private clues, and the group has to crack the case before the clock hits zero.",
+     ["TypeScript", "Preact", "Cloudflare", "Capacitor"], arrow=False)
+card("gizmorun", "game", "GizmoRun",
+     "Place ramps, springs, fans and seesaws, press Play, and let physics carry the ball home. 112 solver-checked levels across 14 worlds.",
+     ["Godot", "GDScript", "Physics"], arrow=False)
+card("mosaic-rush", "game", "Mosaic Rush",
+     "Restore old mosaics by sending polish carriers around a conveyor. Procedural symmetric levels, every one verified solvable.",
+     ["Godot", "Procedural", "Solver"], arrow=False)
+card("bladespan", "game", "Bladespan",
+     "A top-down sword arena where your blade is your health. Every win makes it longer, every hit chops it shorter.",
+     ["Godot", "Arena", "Bots"], arrow=False)
+card("sky-convoy", "game", "Sky Convoy",
+     "Steer a convoy of cars across floating sky tracks, grow it through ×2 and +10 gates, and jump the gaps to the finish.",
+     ["Godot", "Android", "Web"], arrow=False)
+card("balloon-bounty", "game", "Balloon Bounty",
+     "Pop the right balloons so their prizes bounce, roll and drop into the buckets. Delivery, not destruction.",
+     ["Godot", "Physics", "Android"], arrow=False)
 print("ok")
