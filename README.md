@@ -29,11 +29,15 @@ I work mostly in **Flutter**, sometimes **Kotlin**. Lately I build agents with *
 
 ### In the workshop
 
-<sub>Not released yet. Seven games and two apps, built one at a time.</sub>
+<sub>Not released yet. Four apps and seven games, built one at a time.</sub>
 
 <p>
-  <img src="./assets/cards/quizkai.svg" width="49%" alt="QuizKai: real-time anime quiz battles. App in development."/>
+  <img src="./assets/cards/zarailink.svg" width="49%" alt="ZaraiLink: farming app with crop disease detection and Urdu/Punjabi voice. Final year project."/>
   <img src="./assets/cards/voiceledger.svg" width="49%" alt="VoiceLedger: voice-first ledger for small shops. App in development."/>
+</p>
+<p>
+  <img src="./assets/cards/quizkai.svg" width="49%" alt="QuizKai: real-time anime quiz battles. App in development."/>
+  <img src="./assets/cards/medup.svg" width="49%" alt="MedUp: head-to-head medical quiz battles. App in development."/>
 </p>
 <p>
   <img src="./assets/cards/zero-hour.svg" width="49%" alt="Zero Hour: party deduction game for 4 to 10 phones. In development."/>

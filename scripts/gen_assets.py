@@ -139,6 +139,7 @@ STATUS = {
     "wip": ("IN THE WORKSHOP", MIST),
     "game": ("GAME  ·  IN THE WORKSHOP", MIST),
     "app": ("APP  ·  IN THE WORKSHOP", MIST),
+    "fyp": ("FINAL YEAR PROJECT  ·  TEAM OF 3", MIST),
 }
 
 
@@ -213,6 +214,13 @@ card("animation-turf", "oss", "Animation Turf",
 card("voiceledger", "app", "VoiceLedger",
      "Shopkeepers say a sale out loud and it becomes a ledger entry with one tap. Sales, expenses and who owes what, in many languages.",
      ["Flutter", "Riverpod", "Drift", "Speech-to-text"], arrow=False)
+
+card("zarailink", "fyp", "ZaraiLink",
+     "Farming app for growers in Pakistan: on-device crop disease detection, soil analysis, a marketplace, and voice commands in Urdu and Punjabi.",
+     ["Flutter", "TFLite", "Whisper", "Supabase"], arrow=False)
+card("medup", "app", "MedUp",
+     "Head-to-head medical quiz battles. Live matchmaking, rankings and friends, wrapped in a clinical, ECG-inspired interface.",
+     ["Flutter", "Riverpod", "Firebase", "Socket.IO"], arrow=False)
 
 # ---- games in the workshop
 card("zero-hour", "game", "Zero Hour",
