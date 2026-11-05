@@ -210,6 +210,10 @@ card("animation-turf", "oss", "Animation Turf",
      "An agent-select screen built for motion: Lottie splash, a fluid PageView slider and gradient themes that shift per character.",
      ["Flutter", "Lottie", "Animations"])
 
+card("voiceledger", "app", "VoiceLedger",
+     "Shopkeepers say a sale out loud and it becomes a ledger entry with one tap. Sales, expenses and who owes what, in many languages.",
+     ["Flutter", "Riverpod", "Drift", "Speech-to-text"], arrow=False)
+
 # ---- games in the workshop
 card("zero-hour", "game", "Zero Hour",
      "A party deduction game for 4 to 10 phones. Everyone holds private clues, and the group has to crack the case before the clock hits zero.",

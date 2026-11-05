@@ -29,22 +29,25 @@ I work mostly in **Flutter**, sometimes **Kotlin**. Lately I build agents with *
 
 ### In the workshop
 
-<sub>Not released yet. Six games and an app, built one at a time.</sub>
+<sub>Not released yet. Seven games and two apps, built one at a time.</sub>
 
 <p>
   <img src="./assets/cards/quizkai.svg" width="49%" alt="QuizKai: real-time anime quiz battles. App in development."/>
+  <img src="./assets/cards/voiceledger.svg" width="49%" alt="VoiceLedger: voice-first ledger for small shops. App in development."/>
+</p>
+<p>
   <img src="./assets/cards/zero-hour.svg" width="49%" alt="Zero Hour: party deduction game for 4 to 10 phones. In development."/>
-</p>
-<p>
   <img src="./assets/cards/gizmorun.svg" width="49%" alt="GizmoRun: physics puzzle game with 112 levels. In development."/>
+</p>
+<p>
   <img src="./assets/cards/mosaic-rush.svg" width="49%" alt="Mosaic Rush: conveyor puzzle that restores mosaics. In development."/>
-</p>
-<p>
   <img src="./assets/cards/bladespan.svg" width="49%" alt="Bladespan: sword arena where your blade is your health. In development."/>
-  <img src="./assets/cards/sky-convoy.svg" width="49%" alt="Sky Convoy: car convoy racing on sky tracks. In development."/>
 </p>
 <p>
+  <img src="./assets/cards/sky-convoy.svg" width="49%" alt="Sky Convoy: car convoy racing on sky tracks. In development."/>
   <img src="./assets/cards/balloon-bounty.svg" width="49%" alt="Balloon Bounty: pop balloons to deliver prizes. In development."/>
+</p>
+<p align="center">
   <img src="./assets/cards/quack-rapids.svg" width="49%" alt="Quack Rapids: kids' river adventure. In development."/>
 </p>
 
