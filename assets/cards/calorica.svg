@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 250" width="560" height="250" role="img" aria-label="Calorica: Calorie, water and mood tracker that sets personal daily goals and keeps the logging quick.">
+  <defs>
+    <radialGradient id="g" cx="1" cy="0" r="0.9">
+      <stop offset="0" stop-color="#D4A24C" stop-opacity="0.13"/><stop offset="1" stop-color="#D4A24C" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0.75" y="0.75" width="558.5" height="248.5" rx="14" fill="#0C1118" stroke="#1B2430" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="558.5" height="248.5" rx="14" fill="url(#g)"/>
+  <circle cx="38" cy="41" r="4" fill="#D4A24C"/>
+  <text x="52" y="45.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2.5" fill="#D4A24C">LIVE ON GOOGLE PLAY</text>
+  <path d="M512 34 L526 34 L526 48 M526 34 L510 50" fill="none" stroke="#8C99A7" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="32" y="88" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" font-weight="600" fill="#E8EDF2">Calorica</text>
+  <text x="32" y="124" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16.5" fill="#8C99A7">Calorie, water and mood tracker that sets personal daily</text>
+  <text x="32" y="149" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16.5" fill="#8C99A7">goals and keeps the logging quick.</text>
+  <rect x="32.0" y="204" width="73.1" height="24" rx="12" fill="#101922" stroke="#1E2C38"/>
+  <text x="68.5" y="220.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#7DD3EA">Android</text>
+  <rect x="113.1" y="204" width="116.9" height="24" rx="12" fill="#101922" stroke="#1E2C38"/>
+  <text x="171.5" y="220.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#7DD3EA">Pixels Pushed</text>
+</svg>
