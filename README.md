@@ -29,7 +29,7 @@ I work mostly in **Flutter**, sometimes **Kotlin**. Lately I build agents with *
 
 ### In the workshop
 
-<sub>Not released yet. Four apps and seven games, built one at a time.</sub>
+<sub>Not released yet. Four apps and eight games, built one at a time.</sub>
 
 <p>
   <img src="./assets/cards/zarailink.svg" width="49%" alt="ZaraiLink: farming app with crop disease detection and Urdu/Punjabi voice. Final year project."/>
@@ -51,8 +51,9 @@ I work mostly in **Flutter**, sometimes **Kotlin**. Lately I build agents with *
   <img src="./assets/cards/sky-convoy.svg" width="49%" alt="Sky Convoy: car convoy racing on sky tracks. In development."/>
   <img src="./assets/cards/balloon-bounty.svg" width="49%" alt="Balloon Bounty: pop balloons to deliver prizes. In development."/>
 </p>
-<p align="center">
+<p>
   <img src="./assets/cards/quack-rapids.svg" width="49%" alt="Quack Rapids: kids' river adventure. In development."/>
+  <img src="./assets/cards/shojicut.svg" width="49%" alt="Shojicut: 2D ink-and-paper ninja platformer where you cut through houses. In development."/>
 </p>
 
 ### Open source

@@ -241,4 +241,7 @@ card("sky-convoy", "game", "Sky Convoy",
 card("balloon-bounty", "game", "Balloon Bounty",
      "Pop the right balloons so their prizes bounce, roll and drop into the buckets. Delivery, not destruction.",
      ["Godot", "Physics", "Android"], arrow=False)
+card("shojicut", "game", "Shojicut",
+     "A 2D ink-and-paper ninja platformer: slice through shoji walls, outwit ink warriors, and escape through the shortcuts you carved.",
+     ["Godot", "GDScript", "Platformer", "Android"], arrow=False)
 print("ok")
