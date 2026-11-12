@@ -192,6 +192,10 @@ card("calorica", "live", "Calorica",
 card("pixelfit", "live", "PixelFit",
      "Compress photos to an exact KB size, resize for passport and visa forms, convert HEIC to JPG. Fully offline.",
      ["Android", "On-device", "Pixels Pushed"])
+card("mosaic-rush", "live", "Mosaic Rush",
+     "Restore old mosaics by sending polish carriers around a conveyor. Procedural symmetric levels, every one verified solvable.",
+     ["Godot", "Android", "Pixels Pushed"])
+
 card("quizkai", "app", "QuizKai",
      "Real-time, head-to-head anime quiz battles. Server-side scoring, matchmaking in under 8 seconds, leaderboards.",
      ["Flutter", "Node.js", "Socket.IO", "Redis", "Supabase"], arrow=False)
@@ -229,9 +233,6 @@ card("zero-hour", "game", "Zero Hour",
 card("gizmorun", "game", "GizmoRun",
      "Place ramps, springs, fans and seesaws, press Play, and let physics carry the ball home. 112 solver-checked levels across 14 worlds.",
      ["Godot", "GDScript", "Physics"], arrow=False)
-card("mosaic-rush", "game", "Mosaic Rush",
-     "Restore old mosaics by sending polish carriers around a conveyor. Procedural symmetric levels, every one verified solvable.",
-     ["Godot", "Procedural", "Solver"], arrow=False)
 card("bladespan", "game", "Bladespan",
      "A top-down sword arena where your blade is your health. Every win makes it longer, every hit chops it shorter.",
      ["Godot", "Arena", "Bots"], arrow=False)

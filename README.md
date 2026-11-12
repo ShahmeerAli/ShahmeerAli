@@ -14,7 +14,7 @@
 
 I build apps and AI agents, and I'd rather show them than talk about them.
 
-I study Computer Science at **COMSATS Islamabad** (2023–2027). Outside class I run **Pixels Pushed**, a small studio with two apps live on Google Play. Before that I was an app developer at **Kollab** (Nov 2025 – Apr 2026), keeping a production app stable and shipping new features.
+I study Computer Science at **COMSATS Islamabad** (2023–2027). Outside class I run **Pixels Pushed**, a small studio with two apps and a game live on Google Play. Before that I was an app developer at **Kollab** (Nov 2025 – Apr 2026), keeping a production app stable and shipping new features.
 
 I work mostly in **Flutter**, sometimes **Kotlin**. Lately I build agents with **LangGraph**, the kind that check their own answers and know when to hand off to a person.
 
@@ -26,10 +26,13 @@ I work mostly in **Flutter**, sometimes **Kotlin**. Lately I build agents with *
   <a href="https://play.google.com/store/apps/details?id=com.stackpulse.calorica"><img src="./assets/cards/calorica.svg" width="49%" alt="Calorica: calorie, water and mood tracker. Live on Google Play."/></a>
   <a href="https://play.google.com/store/apps/details?id=com.pixelspushed.pixelfit"><img src="./assets/cards/pixelfit.svg" width="49%" alt="PixelFit: compress, resize and convert photos offline. Live on Google Play."/></a>
 </p>
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.pixelspushed.mosaicrush"><img src="./assets/cards/mosaic-rush.svg" width="49%" alt="Mosaic Rush: conveyor puzzle that restores mosaics. Live on Google Play."/></a>
+</p>
 
 ### In the workshop
 
-<sub>Not released yet. Four apps and eight games, built one at a time.</sub>
+<sub>Not released yet. Four apps and seven games, built one at a time.</sub>
 
 <p>
   <img src="./assets/cards/zarailink.svg" width="49%" alt="ZaraiLink: farming app with crop disease detection and Urdu/Punjabi voice. Final year project."/>
@@ -44,15 +47,14 @@ I work mostly in **Flutter**, sometimes **Kotlin**. Lately I build agents with *
   <img src="./assets/cards/gizmorun.svg" width="49%" alt="GizmoRun: physics puzzle game with 112 levels. In development."/>
 </p>
 <p>
-  <img src="./assets/cards/mosaic-rush.svg" width="49%" alt="Mosaic Rush: conveyor puzzle that restores mosaics. In development."/>
   <img src="./assets/cards/bladespan.svg" width="49%" alt="Bladespan: sword arena where your blade is your health. In development."/>
-</p>
-<p>
   <img src="./assets/cards/sky-convoy.svg" width="49%" alt="Sky Convoy: car convoy racing on sky tracks. In development."/>
-  <img src="./assets/cards/balloon-bounty.svg" width="49%" alt="Balloon Bounty: pop balloons to deliver prizes. In development."/>
 </p>
 <p>
+  <img src="./assets/cards/balloon-bounty.svg" width="49%" alt="Balloon Bounty: pop balloons to deliver prizes. In development."/>
   <img src="./assets/cards/quack-rapids.svg" width="49%" alt="Quack Rapids: kids' river adventure. In development."/>
+</p>
+<p align="center">
   <img src="./assets/cards/shojicut.svg" width="49%" alt="Shojicut: 2D ink-and-paper ninja platformer where you cut through houses. In development."/>
 </p>
 
